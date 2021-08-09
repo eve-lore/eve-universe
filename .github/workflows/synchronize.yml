@@ -1,0 +1,48 @@
+name: Synchronize with EVE Universe
+on: 
+  workflow_dispatch:
+  schedule:
+    # Daily job at downtime
+    - cron: '0 11 * * *'
+
+jobs:
+  synchronize:
+    name: Synchronize
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Set up packages
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install ${{ secrets.UNIVERSE_PACKAGE }}
+
+    - name: Synchronize
+      run: |
+        python -m universe export .
+      id: sync
+      env:
+        UNIVERSE_URL: ${{ secrets.UNIVERSE_URL }}
+        UNIVERSE_RATE_LIMIT: ${{ secrets.RATE_LIMIT }}
+        UNIVERSE_BURST_LIMIT: ${{ secrets.BURST_LIMIT }}
+
+    - name: Commit
+      if: steps.sync.outputs.has_changes == '1'
+      run: |
+        git config --local user.name "${{ secrets.GIT_COMMITTER_NAME }}"
+        git config --local user.email "${{ secrets.GIT_COMMITTER_EMAIL }}"
+        git add --all
+        git commit -m "Synchronized from EVE Universe"
+        git push
+      env:
+        GIT_COMMITTER_NAME: ${{ secrets.GIT_COMMITTER_NAME }}
+        GIT_COMMITTER_EMAIL: ${{ secrets.GIT_COMMITTER_EMAIL }}
+    

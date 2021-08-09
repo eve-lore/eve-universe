@@ -1,0 +1,26 @@
+name: Content issue
+description: Let us know you've found an issue with the content
+title: "[Content]: "
+labels:
+  - content
+  - triage-required
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report!
+  - type: input
+    id: url
+    attributes:
+      label: Which page has the issue?
+      description: Specify "MULTIPLE" if this affects multiple pages.
+      placeholder: https://universe.eveonline.com/<page>
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What is the issue?
+      description: Please be as verbose as possible.
+    validations:
+      required: true
