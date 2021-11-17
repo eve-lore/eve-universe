@@ -1,0 +1,34 @@
+author: 4dU8DsWKlLDjAN7cAdXxkQ
+category: New Eden News
+content:
+- body: "Weekend testing of the cargo containment software has revealed a flaw with
+    the system and the upgrade will not be deployed tomorrow. While the software worked
+    as intended, the potential release of numerous cargo containers presented navigational
+    hazards in simulations where freighters were destroyed. These hazards slowed or
+    even stopped movement through systems and caused communications delays as Gal-Net
+    became flooded with the sudden appearance of container transponder beacons. CONCORD
+    agents were required to individually disable the transponder beacons, a time consuming
+    and manpower intensive task. \n\nAnonymous sources are stating this deployment
+    is only temporarily halted, but were not able to give a future deployment date.
+    Further testing is required to resolve communication issues with Gal-Net and remove
+    any navigational hazards."
+  id: 7cKq2J1Cfi2ZFa7sjgjvV9
+  layout: default
+description: Weekend testing of the cargo containment software has revealed a flaw
+  with the system and the upgrade will not be deployed tomorrow. While the software
+  worked as intended, the potential release of numerous cargo containers presented
+  navigational hazards in simulations where freighters were destroyed. These hazards
+  slowed or even stopped movement through systems and caused communications delays
+  as Gal-Net became flooded with the sudden appearance of container transponder beacons.
+  CONCORD agents were [...]
+heroImage: null
+id: 59FDI03BMtBBJPPiuTVQmj
+image: null
+listingImage: null
+parent: null
+publicationDate: '2006-07-03T17:04:11'
+slug: freighter-containment-field-testing-fails-further-testing-required
+sortOrder: 0
+title: Freighter containment field testing fails. Further testing required.
+topics: []
+updatedAt: '2021-06-11T20:45:06.341000+00:00'

@@ -1,0 +1,93 @@
+author: null
+category: Chronicles
+content:
+- body: "![The Precious Tableau](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/tableau.jpg)\n\n---\n\n
+    Mime.Access.Requested;\n\n[->User]Access key required. Please supply biometrics;\n\nMime.Access.Ratification(User
+    3053);\n\n[->User]Welcome;\n\nServer.local.start; Settings.load(User 3053);Add.actor1;\n\nScene.start(3338);\n\nHe's
+    a ship mechanic, so attuned to the quiet hum of the vessel that he can detect
+    faults ahead of even the most sensitive of machinery. He finds a serious flaw
+    in the control component of one of the ship's main engines, a flaw that will make
+    its thrusters burn out and its core systems drop offline if not resolved in quick
+    time. Going against the orders of his superiors and the captain of the ship, he
+    overrides security access codes of the ship, accesses the control component and
+    fixes it just in time to save everyone onboard the ship.\n\nScene.start(3357);\n\n[->User]Scene
+    not found;\n\nScene.start(3375);\n\nHe's a station operator who miraculously averts
+    a crisis that would have seen the station and everyone on it decoupled from its
+    orbit and flung out into deep space.\n\nScene.start(3392);Add.actor2;\n\nLife
+    as a busking music performer on the station is hard, but he's got talent and drive,
+    always one step ahead of the heavies and the cops as he plays his tunes and attracts
+    money and admiration. Passersby stop to listen and find themselves captured in
+    rapt admiration. He doesn't pay them much mind, for he is in this for the music
+    and the thrill, but one person catches his eye. She kneels by his keycard and
+    touches hers to his to leave some credits, but makes another transfer of data
+    as well. After he picks up and leaves, he inspects the day's earnings and finds
+    that she gave him something else: Her publishing company's contact information.\n\nScene.interrupt;Remove.initiative5;Unlock.initiative6531\n\n[->User]Initiative
+    locked;\n\nTransmit. key(signed);\n\n[->User]Initiative unlocked;\n\nAdd.initiative6531;\n\nHer
+    personal contact information.\n\nScene.start(3393);\n\nHe's at home and sends
+    her a line. She responds. It's a little stilted at first but they soon find common
+    ground and a nice tempo. Eventually they move over to audio and talk for hours.\n\nScene.start(3359);\n\nHe's
+    a secret agent for CONCORD, sneaking into dangerous pirate territories.\n\nScene.start(3363);\n\nAs
+    a famous actor, he tries to remain unrecognized in his private time. Some non-famous
+    person recognizes but does not unmask him during a vulnerable time, and in return
+    he gives her a role in his latest movie.\n\nScene.start(3394);\n\nThere's a family
+    scene, and he's the man of the house. Her, him and a dog, all of them resting
+    together at home after a long day, quietly enjoying each other's presence. The
+    dog is very clever and even has his own room. The dog obeys when he's told, and
+    when the man and woman are together, the dog doesn't bark or demand attention.\n\nScene.start(3365);\n\nHe's
+    a famous author, renowned for his knowledge of the human psyche.\n\nScene.start(3366);\n\nHe's
+    a soldier in the war.\n\nScene.start(3395);\n\nHe's lying beside her, stroking
+    her back. There has been no deeper intimacy, just touch. She turns away-\n\nScene.interrupt;Reset;\n\nHe's
+    lying beside her, stroking her back. There has been no deeper intimacy, just touch.
+    She turns towards him and says, \"I love it when you do that. I wish you'd do
+    it forever.\"\n\nScene.capture;\n\n[->User]Capture saved;\n\nCapture.erase;\n\n[->User]Confirm
+    capture?\n\nCancel;\n\nScene.start(3370);\n\nThey're at the operating table. He's
+    about to make the incision. He's a brilliant doctor, able to sense illness and
+    any corrupt body functions merely by his heightened sense of touch. He is so in
+    demand that he can barely keep up.\n\nScene.start(3396);\n\nHe's at home, where
+    he gets his messages answered. Every one he sends. Every one.\n\nCapture.erase;\n\n[->User]Confirm
+    capture?\n\nConfirm;\n\n[->User]Capture erased?\n\nScene.factor.increase(chaos);Reset;\n\nHe's
+    at home, but does not get his messages answered. It's because something terrible
+    has happened, something he senses so strongly with his sensitive mind that he
+    rushes off, gets over to her house and discovers that it's on fire. He breaks
+    in and manages to save everyone. Even the dog.\n\nScene.start(3374);\n\nHe's a
+    spy, doing undercover work on a station, and sniping those enemies foolish enough
+    to wander within his crosshairs.\n\nScene.start(3396);Scene.factor.decrease(chaos);Scene.factor.increase(intrigue);Reset;\n\nHe's
+    worried about the messages, so he's breaking into the house to make sure they're
+    all right. He does not wake up the dog. He absolutely does not wake up the dog.\n\nScene.interrupt;Scene.delete(3396);\n\n[->User]Confirm
+    deletion?\n\nConfirm;\n\nScene.start(3386);\n\nHe's a prosecutor who shows proper
+    understanding to innocent people wrongly accused, while properly punishing those
+    who need to be punished.\n\nScene.start(3397);\n\nHe visits her and helps her
+    look for the dog, who's gone missing. It doesn't turn up, and in the end she admits
+    that she never wanted a dog; she only wanted him.\n\nScene.start(3388);\n\nA peaceful
+    scene, a slow sunrise on a beach somewhere, with the surf sloshing onto the sand,
+    and a tiny breeze cooling off the warm rocks, and nobody around at all.\n\nScene.start(3398);\n\nIt's
+    a tableau. They all stand there: him, her, and the dog. They stand frozen, looking
+    at the camera. They're smiling. Everyone is happy.\n\nScene.interrupt;\n\nLogoff;\n\n
+    \   [->User]Please confirm exit;\n    [->User]Please confirm exit...;\n    [->User]Please
+    confirm exit...;\n    Cancel;\n\nRemove.pets;Add.actor3;Reset;\n\nIt's a tableau.
+    They all stand there; him, her, and that damn kid. She's smiling, so beautifully,
+    and so is he, and so is the kid, who keeps his mouth shut, who doesn't wake up
+    at the slightest bit of noise and is happy and alive.\n\nScene.interrupt;Scene.start(3389);\n\nHe's
+    a capsuleer, flying free, unfettered and undoubted, heading towards the stars.\n"
+  id: 3yxKdgRAkPayM3fJJpsoor
+  layout: default
+description: Mime.Access.Requested; [->User]Access key required. Please supply biometrics;
+  Mime.Access.Ratification(User 3053); [->User]Welcome; Server.local.start; Settings.load(User
+  3053);Add.actor1; Scene.start(3338); He's a ship mechanic, so attuned to the quiet
+  hum of the vessel that he can detect faults ahead of even the most sensitive of
+  machinery. He finds a serious flaw in the control component of one of the ship's
+  main engines, a flaw that will make its thrusters burn out and its core systems
+  drop [...]
+heroImage: null
+id: 34zwBSn825cGdJZ5bSYINg
+image: null
+listingImage:
+  resizable: false
+  url: https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/tableau.jpg
+parent: null
+publicationDate: '2009-08-10T00:00:00'
+slug: the-precious-tableau
+sortOrder: 0
+title: The Precious Tableau
+topics: []
+updatedAt: '2021-11-10T11:44:44.578000+00:00'

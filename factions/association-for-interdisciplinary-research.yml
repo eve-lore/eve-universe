@@ -1,0 +1,64 @@
+author: null
+category: Factions
+content:
+- body: "## Overview\n\nAIR is a newcomer to the corporate landscape of New Eden,
+    a sort of \"disruptor\" start-up in the tech industry. AIR was founded by two
+    entrepreneurs who split from their respective corporations to create their own:
+    Elida Balashirian, formerly of the [Sisters of EVE](2rrk92bQtToCN1naxS0OSc), and
+    Daisuke Ojala, formerly of the Ishukone Corporation. Both left their respective
+    corporations in good standing, and have used the connections they formed there
+    to help kickstart AIR's research and development projects. Their former organizations
+    have been tremendously helpful when it comes to sharing knowledge and resources
+    (from data to ships) so long as AIR is as willing to share the fruits of their
+    own labor.\n\nFocused heavily on research and development of new technologies
+    across multiple industries, AIR is something of a jack of all trades organization.
+    The company has subdivisions that cover everything from combat-oriented technology,
+    industrial and economic endeavors, and exploration-focused pursuits. One of their
+    current projects involves the study, refinement, and iteration of neural data
+    transfer and cloning technologies.\n\nThe corporation has launched a new pilot
+    program\u2013the [Capsuleer Training Program](7pnycXWiN9qUmgsnOG2UAr#air-capsuleer-training-program)\u2013that
+    involves testing their newly developed proprietary neural data transfer and cloning
+    tech on aspiring capsuleers as a part of the AIR Capsuleer Training Program."
+  id: 6drXl5K1XXWu3aCIDdLlEh
+  layout: default
+- body: '## Corporations
+
+
+    ### AIR Laboratories
+
+
+    AIR Laboratories is the division of AIR that focuses on developing and testing
+    groundbreaking new technologies. The division is responsible for the oversight
+    and management of the AIR Capsuleer Training Program. AIR keeps their new and
+    improved tech top secret. No one outside the organization has access to it.'
+  id: 75zUp9a5uj8ycMuVrtjSiN
+  layout: default
+- body: '## More AIR Lore
+
+    - [AIR (lore article)](7pnycXWiN9qUmgsnOG2UAr)
+
+    '
+  id: 6l4SfAtYaL89FO2Z6ZfLzy
+  layout: default
+description: 'Overview AIR is a newcomer to the corporate landscape of New Eden, a
+  sort of "disruptor" start-up in the tech industry. AIR was founded by two entrepreneurs
+  who split from their respective corporations to create their own: Elida Balashirian,
+  formerly of the Sisters of EVE, and Daisuke Ojala, formerly of the Ishukone Corporation.
+  Both left their respective corporations in good standing, and have used the connections
+  they formed there to help kickstart AIR''s research and development projects. Their
+  [...]'
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1t2Tl4m89ea1qNzp2cEFF9/623d2efa0167e39c4fef42967aeb7b2c/bg-empire-gallente.jpg
+id: 6pxkasNMtbUIJd6wKf6Km4
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1fKWkwNdWtirIV1tiKMFOW/5c8559398f07d896f9ea1e01a40a739d/air_b.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: association-for-interdisciplinary-research
+sortOrder: null
+title: Association for Interdisciplinary Research
+topics: []
+updatedAt: '2021-11-09T13:03:07.698000+00:00'

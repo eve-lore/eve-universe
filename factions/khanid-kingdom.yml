@@ -1,0 +1,50 @@
+author: null
+category: Factions
+content:
+- body: 'The Khanid Kingdom, also known as the Dark Amarr, was founded a few centuries
+    ago when the last Amarr Emperor was chosen. Khanid was one of the royal heirs
+    at the time and, in accordance with tradition, should have killed himself after
+    failing to become emperor. This Khanid refused to do and split his vast domains
+    from the Amarr Empire.
+
+
+    The empire retaliated, but only managed to conquer some of the vulnerable outer
+    regions from Khanid. The Kingdom still upholds many of the traditions of Amarr
+    society, but has also wholeheartedly embraced the customs of others, mainly the
+    Caldari. Many visitors to the Kingdom feel like it is a surreal mix of the Amarr
+    and Caldari empires. '
+  id: vDiRLyuZvlZXPWmqDp7XL
+  layout: default
+- body: '## More Khanid Kingdom Lore
+
+    - [Khanid Kingdom (chronicle)](3hU3mCSvJlVYWYiNXMhzaL)
+
+    - [Khanid-II](5HlA8KgFOuLy4jTf3t54xf)
+
+    - [Khanid Family](1dQRsN9IAaCTVkatH4haam)
+
+    '
+  id: 2mLQ2btidRD3m7TRXzltiP
+  layout: default
+description: The Khanid Kingdom, also known as the Dark Amarr, was founded a few centuries
+  ago when the last Amarr Emperor was chosen. Khanid was one of the royal heirs at
+  the time and, in accordance with tradition, should have killed himself after failing
+  to become emperor. This Khanid refused to do and split his vast domains from the
+  Amarr Empire. The empire retaliated, but only managed to conquer some of the vulnerable
+  outer regions from Khanid. The Kingdom still upholds many of the traditions of Amarr
+  society, [...]
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/7pH8XMqp4Z8vWJmVFHsjHm/2cfafc40c3b6cea161abf1302c3bd889/bg-empire-amarr.jpg
+id: 5VtgxEr1vnxuazt8lvQLoj
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1wxOfDN2b62IQcgUeAvVlR/d0f4a38d22f5899c13d00a0e684a1a23/khanid.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: khanid-kingdom
+sortOrder: 0
+title: Khanid Kingdom
+topics: []
+updatedAt: '2021-11-11T09:04:31.116000+00:00'

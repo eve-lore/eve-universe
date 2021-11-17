@@ -1,0 +1,396 @@
+author: null
+category: Lore
+content:
+- body: '## Gallente Corporations
+
+    The Gallente Federation has a strong central government and thriving democracy
+    that is accompanied by vibrant market economy. While their methods are usually
+    more subtle, a good case could be made for considering certain Gallente corporations
+    fully the equal of Caldari megacorps in terms of their power.'
+  id: 1vQCPOK6sfrQiN7XpiA9Sa
+  layout: default
+- body: '## Government Organizations
+
+    The Gallente Federation may have a highly-distributed, multi-tier democracy but
+    the central government is unquestionably very powerful. The President and Senate
+    preside over the apparatus of an interstellar dominion that rivals the Amarr Empire.'
+  id: 7pQvIqJKpobS2ENDYaRoix
+  layout: default
+- body: '### Federal Administration
+
+    The Federal Administration has greater presence in space than the bureaucratic
+    apparatus of the other empires. This is mainly due to the fact that space travel
+    became a common thing for the ordinary Gallentean citizen much earlier than for
+    the other empires and also because inter-stellar trade is proportionally much
+    larger in the Federation than elsewhere.'
+  id: 5n4nm6RbZsDr9nUFC1oM6U
+  layout: default
+- body: '### Federation Customs
+
+    With trade, especially inter-stellar trade, such an integral part of Gallentean
+    society, it is no wonder that the Customs office has gained so much power and
+    influence. Goods are constantly flowing in and out of the Federation and the Customs
+    have its hands full in monitoring that everything is done by the book.'
+  id: 4jQGB63Hkdem3pzCBU1Lhm
+  layout: default
+- body: '### Federal Intelligence Office
+
+    The FIO answers directly to the President and its works are shrouded in secrecy
+    and covert operations. It is believed to operate an extensive spy network that
+    is only rivaled by the Jovians.'
+  id: 2I8sgODkZm7Fbt1C89eDZJ
+  layout: default
+- body: '### President
+
+    The President is the head of the executive branch of the Federal government. In
+    many respects he is the most powerful individual in New Eden. The current President
+    of the Gallente Federation is Celes Aguard.'
+  id: 3FREiau7Qw7XE7wvoVzWBq
+  layout: default
+- body: '### Senate
+
+    The Senate is the legislative arm of the [Federal government](3mYeCTmcQupjzTDlQDaHkf).
+    It also oversees the Federal budget, which gives it great powers. The Senate has
+    often been weakened by factionalism, but the current one has often presented a
+    united front to the President, making his life very hard.'
+  id: 1VykcJhFv3XvRozfWruTHn
+  layout: default
+- body: '### Supreme Court
+
+    The Supreme Court is the highest judicial institution in the Federation. It makes
+    sure the Federal constitution is upheld, but it is mainly concerned about the
+    higher truths of authority, striving to make the administration as open and honest
+    as possible.'
+  id: 6gD93lgBfavXaq3A4hA1BN
+  layout: default
+- body: '## Federal Military
+
+    The military is one of the most powerful institutions in the Gallente Federation
+    and is considered to be one of the guarantors of Gallente democracy. Despite a
+    history that has had its fair share of controversies, the military continues to
+    be a force within the politics of the Federation that cannot be ignored, even
+    if its influence is seldom discussed openly.'
+  id: 13jAjI1Www8HK2dfxlkd3U
+  layout: default
+- body: '### Federal Defense Union
+
+    The Federation has awoken to the threat, and now its strength shall be tried.
+    We wanted peace, and now we are faced with war, provoked by the destructive Caldari.
+    We need brave pilots to fly into the fray and protect not only the ideals for
+    which we stand, but the Federation that upholds them in these dark times. Join
+    us, capsuleer. With your strength and your conviction we shall endure.'
+  id: 5PVy1inOJg13gRDbPph29V
+  layout: default
+- body: '### Federation Navy
+
+    The Federation Navy has seen better days, since the end of the war with the Caldari
+    and the thawing in relations with the Amarrians the budget for the Navy has been
+    slashed severely. It still relies on its drone armada to defeat opponents, but
+    ship wise the Federal Navy is lacking.'
+  id: 11QMNvZ5sVREoeFZSpQ9pY
+  layout: default
+- body: '## Commercial Organizations
+
+    All manner of corporations do business across the Federation. Homegrown corporations
+    range from giants like CreoDron or Quafe, to minnows like Allotek or Inner Zone
+    Shipping. Gallente markets are vast and diverse, with the interstellar players
+    adept at finessing handsome profits out of doing business across the Federation''s
+    many member states.'
+  id: 5VXRAxhr07ArjTiuER8LN2
+  layout: default
+- body: '### Aliastra
+
+    A well-run retail company that has a broad inter-stellar scope, with operations
+    in all the empires. [Aliastra](3iX0hBIWuaj6e76ROt5YV6) has not been able to compete
+    domestically with FedMart, but has seen moderate success in other empires.'
+  id: 3Sos2kRMGKPGHPlZt01Vxf
+  layout: default
+- body: '### Allotek Industries
+
+    Allotek Industries is an offshoot from Roden Shipyards, founded several years
+    ago to develop and manufacture top quality ship modules. Though the company is
+    still in its infancy it already has an impressive product catalog that promises
+    great things for this company in the future.'
+  id: yCAhR4Y5OhAK8LnnUMtt1
+  layout: default
+- body: '### Astral Mining Inc.
+
+    Astral Mining is considered by many the best run mining company in the world of
+    EVE. It is well organized, with well defined surveying, mining and selling divisions
+    that year after year make Astral Mining one of the biggest earners in the corporate
+    world.'
+  id: 3zW9xDzumr4lZbJucKDplN
+  layout: default
+- body: '### Bank of Luminaire
+
+    The national bank of the Gallenteans, located on Gallente Prime. The bank has
+    been in operation for many centuries and has a web of vested economical interests
+    throughout the Federation, allowing it to participate or interfere with most aspects
+    of Gallentean society.'
+  id: 4lmDyaaNIJFQ9r8C8gpocX
+  layout: default
+- body: '### Chemal Tech
+
+    Chemal Tech is an established hi-tech company that was at the forefront of electronic
+    warfare technology a few decades back. Though the fortunes of the company have
+    somewhat dimmed since then it still cranks out top quality EW equipment.'
+  id: 7kQr8RiFSbYb3jyzxAu2Nf
+  layout: default
+- body: '### Combined Harvest
+
+    The main agricultural company in the Federation, Combined Harvest is conservative
+    and passive in nature. It operates solely within the Federation and has no aspirations
+    to muscle in on other markets. However, it is extremely paranoid about its own
+    market share and is willing to go to any length to protect it.'
+  id: 7lxdPTKQDephnj7kbGUa5n
+  layout: default
+- body: '### CreoDron
+
+    Founded by Old Man Darieux after his return from his fantastic journey to the
+    Ouperia system, CreoDron has been the leading corporation in drone manufacture
+    and development for many years.'
+  id: 7JaLciOcgdxVLZo6kUQMpa
+  layout: default
+- body: '### Duvolle Laboratories
+
+    [Duvolle Laboratories](3QCpkge6X3XwSBJ3DLTrn0) is one of these rare companies
+    that focus more on the research than the practical application of their discoveries.
+    Duvolle is engaged in a myriad of R&D, ranging from hi-tech weaponry to nano-robots
+    to cloning equipment.'
+  id: xbaeexxz4rloVMIsUv2gp
+  layout: default
+- body: '### Egonics Inc.
+
+    Egonics holds a unique place in the music industry. The company uses a special
+    technology for broadcasting sound, which has become extremely popular, especially
+    amongst the younger generations. Egonics employs its own music makers and can
+    tailor the music to the individual taste of every listener. Not everyone is happy
+    with the Egonics technology and it has been outlawed from the Amarr Empire.'
+  id: 6S6u2kORlkvn07i3sY3u5A
+  layout: default
+- body: '### Federal Freight
+
+    Even though Federal Freight is smaller than many other shipping companies it is
+    still the most recognized shipping brand within the Federation. The company is
+    old and established and has always concentrated their efforts within the Federation,
+    even at times when it seemed lucrative to expand out of it.'
+  id: ryGgiKFgNZ8kZofUw3oVr
+  layout: default
+- body: '### FedMart
+
+    The largest retail corporation in the world of EVE, FedMart is close to having
+    a monopoly within the Federation, something that is of great concern to the Federal
+    administration.'
+  id: 19XUqFuMnJ0Ju7kHNG9h8h
+  layout: default
+- body: '### Garoun Investment Bank
+
+    The Garoun Investment Bank specializes in funding startup companies, especially
+    in the hi-tech and entertainment sectors. It''s owned by Quafe and the media mogul
+    Raphel Bar, who formed it to further their influence in these vital industries.'
+  id: 3TlzSQwtsjuvRbL8jZXE4z
+  layout: default
+- body: '### Impetus
+
+    [Impetus](hph5RyllJ61G3aO6A0m4g) is the main producer of holo reels in the world
+    of EVE, producing anything from epic historical movies to cheap porn flicks. Impetus
+    has in recent years led the development of instant news arrays, a technology that
+    will revolutionize the news business once complete.
+
+    '
+  id: 7wUCC2KJ4r178WAGf9jL2Z
+  layout: default
+- body: '### Inner Zone Shipping
+
+    A small shipping company that specializes in the bulk shipment of raw materials.
+    The Bank of Luminaire bought a majority share recently and has employed IZS in
+    shipping money and other valuables between stations, due to IZS'' excellent security
+    system.'
+  id: 2Aw6mYB4ZfmcBFWpeBBUzf
+  layout: default
+- body: '### Material Acquisition
+
+    Material Acquisition has grabbed a sizeable market share in the short time since
+    it was founded, mainly due to its ruthless business practices and tendency to
+    buy out competitors. MA''s mother company is Quafe, which has poured money into
+    MA in an attempt to make it the largest mining company in the Federation.'
+  id: 5IGKfVulcwSv4fH5Te4gFu
+  layout: default
+- body: '### Pend Insurance
+
+    Pend Insurance was founded by Pier Ancru some 20 years ago. Ancru is a true Gallentean
+    success story; he comes from a very poor background, but through grit and determination,
+    he rose to the top and is one of the richest people in the Gallente Federation
+    today. His company is mainly an investment firm, though they also act in the role
+    of a traditional bank.'
+  id: 4WtRV0cKhJr0isKVMODwMc
+  layout: default
+- body: '### Poteque Pharmaceuticals
+
+    Poteque is one of the leading biotech corporations in the world of EVE. In its
+    rich history it has often worked small miracles in discovering or developing cures
+    for a host of human sicknesses. It is currently embroiled in a top secret research
+    project for the Federal government, the result of which should come to fruitition
+    in the near future.'
+  id: 3yhqlX4XDHr4IzxA5M8rUr
+  layout: default
+- body: '### Quafe Company
+
+    One of the largest corporations in the world of EVE, Quafe bases its phenomenal
+    success on their extremely popular Quafe drink. But the company operates in many
+    other fields and its power is such that it has a considerable political clout.'
+  id: 1KDC65nvGcE9IrMCTuaGyB
+  layout: default
+- body: '### Roden Shipyards
+
+    Owned by the infamous Jacus Roden, a robber baron and scoundrel if there ever
+    was one. Under his cunning leadership the company has established itself as a
+    leading manufacturer of frigates and shuttles in the Federation. The company also
+    operates a strong R&D division, Roden has been active in hiring the best talents
+    out there, often by prying them from other companies with promises of fame and
+    fortune.'
+  id: 76gyIttTIlKvay58T5F8og
+  layout: default
+- body: '### The Scope
+
+    The Scope is the leading news agency in the world of EVE. Though based in the
+    Federation the company takes pride in its total independence and operates separate
+    agencies throughout the world. The Scope swings slightly to the left, but its
+    conservative enough to be considered a reliable news agency even to the toughest
+    businessmen and politicians.'
+  id: 5A0RBulmlZsAOy4gtU2hdO
+  layout: default
+- body: '### TransStellar Shipping
+
+    The largest shipping company in the world of EVE, TransStellar Shipping offers
+    a cheap and reliable service almost anywhere. Considered the next best thing to
+    InterBus in interstellar shipping, TransStellar Shipping is a stellar example
+    of a big company getting bigger due to pure marketing muscle.'
+  id: 309i5JtTslIpMcwqvnYhiJ
+  layout: default
+- body: '## Gallente Schools
+
+    Gallente education institutions are exemplary, and the most prestigious provide
+    generous scholarships to those who can pass their exacting entrance exams but
+    are unable to afford the fees and considerable living costs.'
+  id: 4backrBd2GKijcK6qfkApK
+  layout: default
+- body: '### Center for Advanced Studies
+
+    Originally conceived as a think-tank for researchers at Chemal Tech the CAS evolved
+    into an independent education facility that today is considered one of the very
+    best technical schools in the world of EVE.'
+  id: 299cllNANaFkVC2lvDzoQz
+  layout: default
+- body: '### Federal Navy Academy
+
+    The Federation Navy acts upon a recent policy of upgrading the professionalism
+    of its cadets. The result is a leaner, meaner academy with much stricter entry
+    requirements than before and even stricter tutoring.'
+  id: 6hPuHpfCc8smrSEIeSHJ6s
+  layout: default
+- body: '### University of Caille
+
+    The largest school in the world of EVE, with almost half a million students, the
+    UoC has long acted as a melting pot for cultures and ideas from all over. As befits
+    its status UoC offers a wide range of studies, but is best known for its extensive
+    anthropology department.'
+  id: 6VUWevFYCaCJcTZ3RgApKc
+  layout: default
+- body: '## Mercenary Companies
+
+    The vastness and diversity of Gallente territory makes for a ready market for
+    the services of private military companies. Disputes between member states or
+    corporations can reach the point of requiring force, or at least the threat of
+    it. Even in the Federation mercenaries are available for jobs large and small.'
+  id: 6XBBTG3D6Cr4c5DZgJeOj2
+  layout: default
+- body: '### Algintal Core
+
+    Originating as a military unit seconded to corporate interests studying the behavior
+    of rogue drones in the Algintal constellation, the Algintal Core have maintained
+    a clinical care and attention in everything they do, even after cutting formal
+    ties with the original research effort and [Federation](4bufc5OaK80rlo20Pez6gK)
+    military alike. Exposure to the realities of corporate life has inevitably added
+    a certain cynicism to the attitudes of the founding operatives, which has served
+    them well as suppliers in the military services sector.'
+  id: 7lLK28zWKen9669xCuY1SM
+  layout: default
+- body: '### Condotta Rouvenor
+
+    Very much formed in the image of a traditional mercenary regiment from the time
+    of kings on [Gallente Prime](41JbD6M3Keq024T44ULv7a), the Condotta Rouvenor nevertheless
+    uses the most modern equipment and military techniques. The services of this prestigious
+    private security corporation are always in demand.'
+  id: 5b3c5Cs8uCB72D6AMdYmk9
+  layout: default
+- body: '### Crux Special Tasks Group
+
+    In April YC108, following certain archaeological discoveries in the Crux constellation,
+    the [Gallente](4bufc5OaK80rlo20Pez6gK) Federation assembled a special tasks group
+    reporting directly to the Federal Intelligence Office. Whatever the Crux discoveries
+    amounted to has never been made public and those who led the expedition are currently
+    listed as working for the Federal government in various confidential roles. The
+    Crux Special Tasks Group was eventually privatized under Federal directive and
+    licensed to carry out paramilitary operations in the corporate security sector.'
+  id: 4mZpXZi7zvIeCqeVmr7d1G
+  layout: default
+- body: '### Kang Lo Directorate
+
+    The Sang Do caste overlords of [Lirsautton](4vX2JFJxrnpRAKUN8ZAO2L) V have occasionally
+    had to take drastic steps in dealing with one another and the [Jin-Mei](6SFvK45QIlCCCoNODY3gUB)
+    homeworld has even seen civil war. The Sang Do traditionally called on a military
+    sub-caste, the Kang Lo, to organize and command their armies in the field. In
+    the modern age, the Kang Lo Directorate provides private military contracting
+    services well beyond the confines of the Lirsautton system.'
+  id: 5gOpdwUM6KA3fKHYaH0g5D
+  layout: default
+- body: '### Namtar Elite
+
+    Persistent rumors claim that the Namtar Elite private military corporation is
+    little more than a front for the Black Eagles, the Federation''s most ruthless
+    internal security and intelligence agency. Others suggest that the corporation
+    has spread those rumors to enhance its mystique using the intimidating reputation
+    of the Black Eagles. Whatever the truth of the matter may be there are no shortage
+    of customers willing to hire Namtar Elite''s mercenaries.'
+  id: 6RLrUoLD7PdR8eXWNywaQ7
+  layout: default
+- body: '### Ostrakon Agency
+
+    A mercenary corporation that has made a practice of hiring dishonorably discharged
+    members of the [Gallente](4bufc5OaK80rlo20Pez6gK) military, the Ostrakon Agency
+    is considered a rather suspect organization by the Gallente media and they regularly
+    run stories about its activities. Unperturbed, the Agency carries on with its
+    business of contracting soldiers and other personnel for service in conflicts
+    throughout [New Eden](5m9PDmbyzmRXdP1vvQETRk).'
+  id: 52A0RedZo3qkalbSDBOaw4
+  layout: default
+- body: '### Villore Sec Ops
+
+    In the wake of the infamous Elarel massacre, the Quafe megacorporation, hugely
+    embarrassed by the incident, dismissed almost the entire upper echelon of its
+    security division. These men and women promptly formed their own private security
+    company and, forced into taking jobs most would not by the taint of their failure
+    at Elarel, rapidly gained a reputation for absolute ruthlessness and total dedication
+    to getting results for those giving them contracts. The board of Villore Sec Ops
+    now presides over one of the most important mercenary contracting organizations
+    operating in [Gallente](4bufc5OaK80rlo20Pez6gK) space.'
+  id: 55hx8bruebQ0ajZ1zmQ8ey
+  layout: default
+description: Gallente Corporations The Gallente Federation has a strong central government
+  and thriving democracy that is accompanied by vibrant market economy. While their
+  methods are usually more subtle, a good case could be made for considering certain
+  Gallente corporations fully the equal of Caldari megacorps in terms of their power.
+heroImage: null
+id: 4Z1mRxMqMl9pkYxSeSnqXV
+image: null
+listingImage: null
+parent: null
+publicationDate: null
+slug: gallente-corporations
+sortOrder: null
+title: Gallente Corporations
+topics:
+- Organizations
+- Gallente
+updatedAt: '2021-11-01T10:47:37.036000+00:00'

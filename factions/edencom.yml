@@ -1,0 +1,58 @@
+author: null
+category: Factions
+content:
+- body: EDENCOM is the New Eden Common Defense Initiative, a semi-autonomous military
+    command set up by CONCORD and the "Big 4" core empires to aggressively prosecute
+    the war against the Triglavian Collective's invasion forces in YC122. With access
+    to massive financial resources from the New Eden Defense Fund, EDENCOM organizes
+    the fortification of threatened systems and the defense of New Eden by fleets
+    and troops drawn from CONCORD and the empires.
+  id: 5V1rNBd3Th5kV9KuC49qHN
+  layout: default
+- body: '## Corporations
+
+
+    ### AEGIS
+
+
+    CONCORD''s Authority for Emergency Interdiction and Security (AEGIS) was set up
+    in response to increasing losses of interstellar shipping in YC120.
+
+
+    When the Triglavian Invasions began in YC121, AEGIS became responsible for orbital
+    defense and planetary fortification co-ordination.
+
+
+    As the Triglavian Collective pressed its invasion campaign forward in YC122, AEGIS
+    became the central military command for EDENCOM''s efforts to increase the defenses
+    of New Eden systems.'
+  id: DlZqLrrpc0ndPZyY3d4vB
+  layout: default
+- body: '## More EDENCOM Lore
+
+    - [Kasiha Valkanir](2IGJTHmhP90a9rm76AT5tS)
+
+    '
+  id: 45PDh0at4skDegPWJZbL7Y
+  layout: default
+description: EDENCOM is the New Eden Common Defense Initiative, a semi-autonomous
+  military command set up by CONCORD and the "Big 4" core empires to aggressively
+  prosecute the war against the Triglavian Collective's invasion forces in YC122.
+  With access to massive financial resources from the New Eden Defense Fund, EDENCOM
+  organizes the fortification of threatened systems and the defense of New Eden by
+  fleets and troops drawn from CONCORD and the empires.
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/7pH8XMqp4Z8vWJmVFHsjHm/2cfafc40c3b6cea161abf1302c3bd889/bg-empire-amarr.jpg
+id: 6QGTCSxmRtuXC0E3kCIl91
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/2pFLuLvn2QIKOWQd9JWEJj/db9cdeb972b4cb696dc4449893d3bce7/edencom_b.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: edencom
+sortOrder: null
+title: EDENCOM
+topics: []
+updatedAt: '2021-11-11T09:04:18.283000+00:00'

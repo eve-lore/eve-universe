@@ -1,0 +1,106 @@
+author: null
+category: Factions
+content:
+- body: 'Outer Ring Excavations, or ORE, is the largest independent mining corporation
+    around. ORE was originally a fledgling Gallentean company, but struck gold when
+    they found extremely rich Nocxium asteroid belts in the Outer Ring region.
+
+
+    When the Gallente Federation tried to force ORE to reveal the location of the
+    asteroid fields the company left Gallentean space and set up base in the Outer
+    Ring region. They used their massive wealth to buy protection for their bases
+    and keep their operation secret. Several pirate factions have tried to muscle
+    in on the ORE territories, but with little success.'
+  id: 6zc63b7Urwop2ZKRc6AVdO
+  layout: default
+- body: "## Outer Ring Excavations\n\nOuter Ring Excavations was formed in the Gallente
+    Federation by an entrepreneur named Yani Sar Arteu. Colloquially known as simply
+    ORE, it has since grown to become the single largest and most influential mining
+    conglomerate in the cluster.\n\nFor the first five years of the corporation\u2019s
+    existence, business was very difficult. In its fourth year ORE almost declared
+    bankruptcy, finding it a challenge to stand out among the many competing mining
+    corporations in Verge Vendor. Fortunes changed for the company almost overnight
+    in YC 96, however, when a massive obsidian ocher asteroid containing a huge amount
+    of nocxium was discovered during a routine survey deployment. The asteroid was
+    reportedly the largest single deposit of nocxium ever discovered in New Eden,
+    with some sources claiming that it was closer in size to a dwarf planet or a small
+    moon.\n\nThis discovery prompted the Gallente government to issue a demand for
+    its location, believing that the value of the asteroid was too high for a single
+    small corporation. The federation offered a below-market price for the mineral
+    value, leaving Arteu with a decision to either sell the asteroid\u2019s location
+    to the federation for a safe but reduced profit or rebuke their offers and attempt
+    to have ORE work by itself through all aspects of the asteroid\u2019s harvesting.\n\nArteu
+    ultimately decided to keep the whereabouts of the asteroid to himself and his
+    small inner circle. Along with a highly trusted group of technicians, he began
+    work on breaking down the asteroid, keeping its location secret all the while.
+    Rather than strip mine the location, the corporation decided to carefully extract
+    the ore and slowly release it to the market, in an effort to avoid crashing the
+    price of nocxium. Operations were further hampered as the Gallente government
+    repeatedly placed economic restrictions on the corporation in an effort to force
+    it to release the location of the deposits.\n\nAfter growing pressure was placed
+    on the corporation by the federal administration, and a number of sabotage and
+    espionage attempts were made on the corporation by competitors, Arteu relocated
+    ORE\u2019s operations to Outer Ring, removing the ability of the Gallente Federation
+    to place pressure on corporate operations. From this point on, the organization
+    flourished and began to grow rapidly into the powerhouse it has become today.\n\nWhile
+    Outer Ring Excavations remains a wholly independent corporation, it maintains
+    strong ties with highvolume manufacturing corporations across the cluster, as
+    well as most of the major commercial shipyards in New Eden."
+  id: 5j9Equ5oc9qmKEQmzE4UvQ
+  layout: default
+- body: "## Corporations\n\n### Outer Ring Excavations\nA filthy rich corporation
+    that disassociated itself from the Federation when it tried to encroach on the
+    companies riches. ORE operates mainly in the Outer Ring and Cloud Ring regions,
+    where they have mining installations scattered around in hidden locations, grinding
+    out the most valuable minerals on the market. \n\n### Outer Ring Development\nORE\u2019s
+    research efforts in fields as diverse as moon mining and space colonization have
+    brought the mining conglomerate many innovations over the years since it broke
+    with the Gallente Federation. In its efforts to become ever more independent,
+    ORE has assembled its most far-thinking, radical and slightly eccentric minds
+    in a new division incorporated as Outer Ring Development. Persistent rumors of
+    a program to create a genetically-modified Fedo capable of digesting Dark Ochre
+    and excreting pure Nocxium have neither been confirmed nor denied.\n\n### Outer
+    Ring Prospecting\nOriginating as a branch dedicated to exploring deep space and
+    laying claim to anything valuable found therein, Outer Ring Prospecting was eventually
+    spun into a separate company in the ORE family. It is rumored to be staffed with
+    hungry-looking people who tend to feel uncomfortable in crowds and spend a lot
+    of time glancing out the windows of their ships, as if searching for something
+    important just out of sight.\n\n### ORE Technologies\nThe increasing involvement
+    of ORE in the development of technology and businesses beyond its mining operations
+    origins led the conglomerate to set up ORE Technologies as an umbrella corporation
+    to co-ordinate and control its various research and product development subsidiaries.\n\n###
+    Frostline Laboratories\nORE began to market ice-mining related products under
+    its Frostline brand at the end of YC117. The success of the brand's flagship Endurance
+    class expedition frigate encouraged ORE to set up a subsidiary corporation to
+    manage research and development of new products for the ice-mining industry.\n"
+  id: 4XCYHDhLnMtPbBs2cqrar9
+  layout: default
+- body: '## More ORE Lore
+
+    - [Outer Ring Excavations (chronicle)](38pEfgwJxyeFUuqMgpTLZ)
+
+    - [Outer Ring (region)](76XHDOSsVTEcKoz8b0QuNt)'
+  id: 4mmqOSfuqnXIyXE2x1lX1f
+  layout: default
+description: Outer Ring Excavations, or ORE, is the largest independent mining corporation
+  around. ORE was originally a fledgling Gallentean company, but struck gold when
+  they found extremely rich Nocxium asteroid belts in the Outer Ring region. When
+  the Gallente Federation tried to force ORE to reveal the location of the asteroid
+  fields the company left Gallentean space and set up base in the Outer Ring region.
+  They used their massive wealth to buy protection for their bases and keep their
+  operation secret. [...]
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1t2Tl4m89ea1qNzp2cEFF9/623d2efa0167e39c4fef42967aeb7b2c/bg-empire-gallente.jpg
+id: 5Uoy3NBhmxW7rebu6CPye8
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/OPvSW8ik1eejTmishyJlW/378668ac79c8db2c79ffc1e6ca28dffe/ore_g.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: ore
+sortOrder: 0
+title: ORE
+topics: []
+updatedAt: '2021-11-08T19:59:12.516000+00:00'

@@ -1,0 +1,90 @@
+- description: Each chronicle gives a peek into the Universe of EVE, with tales from
+    across the New Eden cluster shedding light on the struggles of humanity 20,000
+    years in the future.
+  heroImage: null
+  id: 4C6HHcEW2KcAqkkmctONCB
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/4uByBpWjn1hKqyzw8998vU/b98b59b2e7f6e0a40c819c58ea5140b8/chronicles.jpg
+  landingPage: null
+  layout: chronological
+  name: Chronicles
+  slug: chronicles
+- description: The Universe of EVE is dominated by four major empires inhabited by
+    the Amarr, Caldari, Gallente and Minmatar peoples.
+  heroImage: null
+  id: 6J7GCF9NxfmpoAaHV6IWRD
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/4a6q8z97XtnnZzZrBJ2Ycy/859f9b89c73dace503cb0d6ef8c3326d/empires-category-bg__4_.jpg
+  landingPage: null
+  layout: largePanel
+  name: Empires
+  slug: empires
+- description: While four core empires dominate New Eden, the Universe of EVE contains
+    many other factions and organizations ranging from minor nations to pirate cartels.
+  heroImage: null
+  id: 35alsGimMr5Uta6UIhpudD
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/1fSjkei6hYb8RzLnMZT6Sm/50449015ed4dcf473a93489755fcda3a/factions.jpg
+  landingPage: null
+  layout: condensedIcon
+  name: Factions
+  slug: factions
+- description: News from the New Eden cluster with a special focus on the activities
+    of the capsuleers who roam interstellar space.
+  heroImage: null
+  id: 3hHUNdiMBErZZk46r5zxOH
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/6mVWwPbI3Foj7Ert77v2j3/077fbe5769f5703b4801cd6d812407d0/interstellar.jpg
+  landingPage: null
+  layout: newsListing
+  name: Interstellar Correspondents
+  slug: interstellar-correspondents
+- description: The Universe of EVE is filled with lore on empires, star systems, cities,
+    technology, fauna and flora, and much else besides. Explore it all through these
+    articles.
+  heroImage: null
+  id: L75pG39PwzmzWei5c8URE
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/3GHr0o1eFvIFME1U48Clpm/3547096ae807608a76a4faee371e30db/lore.jpg
+  landingPage: null
+  layout: default
+  name: Lore
+  slug: lore
+- description: The latest news from around the cluster as told by the special reporters
+    of the news organizations of New Eden.
+  heroImage: null
+  id: 2HRnxOSuNhk9SRbbK2dtLu
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/HSFn7BtofAgfOSP9ADi2T/0aa603fce4c875dd04788168c58311c0/corporations.jpg
+  landingPage: null
+  layout: newsListing
+  name: New Eden News
+  slug: new-eden-news
+- description: Take a deep dive into the signature science and technology of EVE in
+    these extended scientific articles.
+  heroImage: null
+  id: 4OK4FDIGX3fJktodGQfdvv
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/5c62QtYppQVfnjiI8BnTWX/6985afd83e6a443fca75e0eb9b31c3c5/scientific_articles.jpg
+  landingPage: null
+  layout: default
+  name: Scientific Articles
+  slug: scientific-articles
+- description: Longer form short stories from the Universe of EVE. Immerse yourself
+    in extended fiction that deals with key background moments.
+  heroImage: null
+  id: 4YFKA7c09iUSqlOrVz3ARe
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/4HIWGCBkdL46XrSNu3AzHD/548da3a9ca6c4d67467124903b4446f6/short_stories.jpg
+  landingPage: null
+  layout: default
+  name: Short Stories
+  slug: short-stories

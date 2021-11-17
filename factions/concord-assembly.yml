@@ -1,0 +1,103 @@
+author: null
+category: Factions
+content:
+- body: 'CONCORD is an independent organization founded a century ago to facilitate
+    negotiations between the races to improve relations, as well as to foster inter-stellar
+    trade through policing and regulations.
+
+
+    Starting as a fledgling meeting ground for diplomats CONCORD has in the decades
+    since it was founded slowly increased its power and influence. It has become an
+    entity independent of the races, as it is able to largely fund its own operation
+    through customs, confiscation of contraband goods, and other means.
+
+    '
+  id: 6KvEQETHQDGhIsBM9xRt8c
+  layout: default
+- body: "## CONCORD Assembly\n\nThe Consolidated Cooperation and Relations Command
+    Assembly, or CONCORD Assembly as it has become known, was founded over a century
+    ago, after the five empires initially established contact with each other.\n\nFrom
+    the outset interstellar relations were strained. That being the case, the main
+    purpose of an agency like CONCORD was to ease the tension and create a foundation
+    for peaceful cooperation between the empires. This endeavor is widely regarded
+    as a success, given that while several flare-ups have occurred, and indeed the
+    empires have come to blows since CONCORD\u2019s formation, a situation of all-out
+    war has been avoided through careful mediation and negotiation."
+  id: 6qjmC7IAciKC7HCQxhg4oP
+  layout: default
+- body: "## Corporations\n\n### CONCORD\nCONCORD was jointly formed a century ago
+    by all the empires. The intention of it was to foster the fragile relationship
+    between the empires and act as a meeting place where they could discuss their
+    differences and hammer out a compromise solution. CONCORD has since taken on a
+    life of its own, proud of its independence and determined to uphold its duties.\n\n###
+    CONCORD Aerospace\nCONCORD's Directive Enforcement Department became concerned
+    early in the Drifter Crisis that its inventory of ships could no longer meet its
+    needs. The CONCORD Aerospace division therefore embarked on its \"Force Majeure
+    Program\" to develop enhanced variants.\n\nWhile CONCORD Aerospace successfully
+    upgraded DED's stable of vessels with hyper-advanced technology, the program became
+    a severe drain on CONCORD's resources. Consequently, the Inner Circle authorized
+    a limited release of CONCORD Aerospace's designs, stripped of CONCORD's advanced
+    rapid-deployment and electronic warfare suites. The division was established as
+    a subsidiary corporation to facilitate the release of these designs to the capsuleer
+    market via authorized dealers.\n\n### DED\nThe police enforcement arm of CONCORD.
+    DED has the responsibility of tracking down known criminals and attacking criminal
+    facilities. They frequently operate outside empire space, wanting criminals to
+    understand that they are nowhere safe from the long arm of the law.\n\n### Directive
+    Intelligence Agency\nThe CONCORD Directive Intelligence Agency is an offshoot
+    of the DED that provides a range of intelligence gathering and reporting services
+    to CONCORD. The CDIA is also known for producing the CDIA Interstellar Fact Book
+    and its series of briefing holos for capsuleers: the CDIA Files.\n\n### Independent
+    Gaming Commission\nFormed in the wake of the YC105 Amarr Succession Trials when
+    a group of entrepreneurs at the Secure Commerce Commission realised how popular
+    structured combat tournaments were among capsuleers, the Independent Gaming Commission
+    has grown from a small passion project into the CONCORD Assembly\u2019s regulatory
+    body for all competitive sports.\n\nWith its own highly skilled team of engineers
+    and state of the art shipyards that produce low volume bespoke versions of the
+    most popular hulls in the cluster as prizes, the IGC maintains a healthy bottom
+    line from event organization, sponsorship and adjudication across the cluster.\n\n###
+    Inner Circle\nInner Circle is the top level department of CONCORD. The policies
+    of CONCORD are discussed and decided on Inner Circle meetings, which are usually
+    closed to the public. At first the members of the circle were nominated by the
+    empires, but now they rise from the ranks of CONCORD employees. Thus, their loyalty
+    is no longer bound to any one empire, but rather to CONCORD itself.\n\n### Project
+    Discovery\nProject Discovery is a research corporation affiliated with the CONCORD
+    Assembly. The organization is currently focused on studying an insidious viral
+    threat sweeping across New Eden. \n\nThe corporation has contributed to a number
+    of research endeavors and supports many more, including Professor Lundberg's foray
+    into deciphering Drifter cellular anomalies and Professor Mayor's exoplanet hunting
+    program. CONCORD assumed oversight of Project Discovery from the Sisters of EVE
+    in July YC 119.\n\n### Secure Commerce Commission\nThe SCC is responsible for
+    regulating and monitoring all trade transactions that take place on space stations.
+    It has agents on all stations that record the transactions and they also offer
+    courier and escrow services to make trade smooth.\n"
+  id: 2HPqJAdsch5OAEe6EdzrKo
+  layout: default
+- body: '## More CONCORD Lore
+
+    - [CONCORD (lore article)](5DPzMesjfj3XKshPWBUPWt)
+
+    - [CONCORD (chronicle)](2AsnTjtXtChnFsT6g1JIcl)'
+  id: k2NTo93i5zbBONDjtgjz7
+  layout: default
+description: CONCORD is an independent organization founded a century ago to facilitate
+  negotiations between the races to improve relations, as well as to foster inter-stellar
+  trade through policing and regulations. Starting as a fledgling meeting ground for
+  diplomats CONCORD has in the decades since it was founded slowly increased its power
+  and influence. It has become an entity independent of the races, as it is able to
+  largely fund its own operation through customs, confiscation of contraband goods,
+  and other means.
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1UrYHKr997ykTPW59eIQ3k/14f44d472b48b6a0796d6418ddc27dcb/bg-empire-caldari.jpg
+id: 2km27MS5LL2ItAMoOLlpla
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/RjgkDrRXf1emRtvUsVwUl/a6e58dd28cd6d459517bfe46e919c9e9/concord_gold.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: concord-assembly
+sortOrder: 0
+title: CONCORD Assembly
+topics: []
+updatedAt: '2021-11-08T19:57:09.028000+00:00'

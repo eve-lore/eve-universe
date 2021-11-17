@@ -1,0 +1,126 @@
+author: null
+category: Factions
+content:
+- body: 'Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente
+    War. The Syndicate has slowly grown in stature and influence and now serves as
+    an important link between the empires and the illegal elements in the outer regions.
+    Syndicate space is a pirate haven, but still retains enough civility to allow
+    pretty much anyone to travel there to do business. The Syndicate markets are always
+    chockfull of contraband goods and illegal wares that are hard or impossible to
+    come by elsewhere.
+
+
+    Each Syndicate station is an autonomous entity, but they cooperate on security
+    and information issues. The unofficial leader of the Syndicate is Silphy en Diabel,
+    a former Sister of EVE that returned to Syndicate space to save her family''s
+    fortune. Since then she''s turned out to be just as resourceful and ruthless as
+    her late father.
+
+    '
+  id: 5wr2GyghwE05Ry1Lz7eYHv
+  layout: default
+- body: "## Intaki Syndicate\n\nInitially formed by exiles from the Gallente Federation
+    during the Gallente-Caldari War, the Intaki Syndicate resides within its namesake
+    region of Syndicate, bordering the federation. Over the course of the last century,
+    the syndicate has slowly grown in stature, working to increase its political and
+    financial capital to ensure it remains an important link between the core empires
+    and the illegal elements found in the outer regions.\n\nThe settled planets and
+    stations within the syndicate operate as autonomous, financially and politically
+    independent entities, all of which cooperate on the basis of collective information
+    sharing and provision of security. Although widely regarded as a pirate haven,
+    the syndicate still maintains enough rule of law within its territories to allow
+    almost anyone to pass through or travel for business. To this end, since empire
+    policing within its borders has always been a relatively rare occurrence, the
+    syndicate set up its own law enforcement arm in YC 72, branded as Intaki Space
+    (ISP), to encourage prospective customers to travel without fear within its borders.
+    Although rumored to be highly corrupt, this organization is ruthless when it comes
+    to quelling unrest and is generally regarded as a heavy-handed but highly effective
+    law enforcement entity.\n\nAs well as protecting trade routes, ISP also protects
+    and guards the assets of the Intaki Bank, which has seen a boom in business since
+    it opened its doors to public account holders and decided to keep the names and
+    transactions of all account holders highly confidential. It remains widely known
+    that hundreds of billions of dirty kredits pass through the Intaki banking system
+    per month from black market trading and other illegal ventures, though it remains
+    the general consensus of the syndicate that if they do not provide this service,
+    someone else will.\n\nThe biggest account holder with the Intaki Bank by far remains
+    Intaki Commerce, which handles the largest volume of black market transactions
+    in New Eden. Intaki Commerce stations are often used as a neutral meeting ground
+    where black market traders from the outer regions can meet merchants from empire
+    space. Intaki Commerce, via the Intaki Space Police, provides security for these
+    meetings, cutting a sizable profit from all transactions for the syndicate.\n\nUnofficially
+    run by a ruthless former Sister of EVE by the name of Silphy en Diabel, who returned
+    to syndicate space to reclaim her father\u2019s fortune, the syndicate remains
+    the largest black market and money laundering organization in the cluster and
+    is rumored to have dealings with every major outlaw organization in New Eden."
+  id: 2bcnJr27mbBOtmEyQZFc8C
+  layout: default
+- body: '## Corporations
+
+
+    ### Intaki Syndicate
+
+    Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente
+    War, the Syndicate has slowly grown in stature and influence. It now serves as
+    an important link between the empires and the illegal elements in the outer regions.
+    Syndicate space is a pirate haven but still retains enough civility to allow pretty
+    much anyone to travel there for business. Its markets are always chock full of
+    contraband goods and illegal wares that are hard or impossible to come by elsewhere.
+    Each Syndicate station is an autonomous entity, but they cooperate on security
+    and information issues. The unofficial leader of the Syndicate is Silphy en Diabel,
+    a former Sister of EVE who returned to Syndicate space to save her family''s fortune.
+    Since then she''s turned out to be just as resourceful and ruthless as her late
+    father.
+
+
+    ### Intaki Bank
+
+    The Intaki Bank has seen brisk business in the decade since it decided to keep
+    the names on all accounts secret and inaccessible to anyone. Everyone knows that
+    dirty money pours in and out of the bank, but the general consensus of the Syndicate
+    is that if it doesn''t provide this service, then someone else will.
+
+
+    ### Intaki Commerce
+
+    The Syndicate is the biggest black market dealer in the world of EVE, a place
+    where shady traders from the outer regions can meet merchants from empire space.
+    Intaki Commerce handles these transactions, making a nice profit for the Syndicate.
+
+
+    ### Intaki Space Police
+
+    The Syndicate wants their space to be relatively trouble-free, so as to encourage
+    people to visit and spend their money. With empire policing infrequent, they employ
+    their own police force to enforce the peace.'
+  id: 53uMYRvLWEWok40JonAusW
+  layout: default
+- body: '## More Syndicate Lore
+
+    - [Intaki Syndicate](4ODncOn9Yvcol1oPLyHrFk)
+
+    '
+  id: 2y56Mhbn9Czrxt6e5ojPux
+  layout: default
+description: Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente
+  War. The Syndicate has slowly grown in stature and influence and now serves as an
+  important link between the empires and the illegal elements in the outer regions.
+  Syndicate space is a pirate haven, but still retains enough civility to allow pretty
+  much anyone to travel there to do business. The Syndicate markets are always chockfull
+  of contraband goods and illegal wares that are hard or impossible to come by elsewhere.
+  [...]
+heroImage:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/1t2Tl4m89ea1qNzp2cEFF9/623d2efa0167e39c4fef42967aeb7b2c/bg-empire-gallente.jpg
+id: 5aCxBhwo0vxK42kDWY4vKJ
+image:
+  resizable: true
+  url: //images.ctfassets.net/1gqwxa4vbed9/2BgamCKwTfNEr2fLaB21X/e4abf2b69964c04b27588134718e61d3/intaki_syndicate.svg
+listingImage: null
+parent: null
+publicationDate: null
+slug: the-syndicate
+sortOrder: 0
+title: The Syndicate
+topics:
+- Intaki Syndicate
+updatedAt: '2021-11-08T20:04:23.561000+00:00'
