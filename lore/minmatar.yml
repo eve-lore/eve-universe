@@ -483,22 +483,22 @@ content:
     numerous Minmatar corporations were founded and continue to be run by the largest
     circles. The web of relationships and reputation surrounding these often quite
     powerful groupings is simply beyond the understanding of any outsider, given how
-    much of it is informal and mediated by convention. \nReligion\n\n### The First
-    Elders\n\nFrom the time of their first empire, the Minmatar traditionally followed
-    a set of religious philosophies that varied by tribe, but shared the same pantheon
-    of seven spirits. The spirits are known as the \u201CFirst Elders\u201D and are
-    considered individually to be tutelary spirits of each of the seven tribes of
-    Matar. In Minmatar philosophy, each spirit is seen as embodying a particular aspect
-    of the human condition. Interpretations of these aspects vary from tribe to tribe,
-    and it is perhaps no surprise that each tribe has a pronounced tendency to regard
-    its own tutelary First Elder in the most positive light. Attitudes to the tutelaries
-    of other tribes vary but are in the main reverent. Even the Krusual give a grudging
-    acknowledgement of the importance of the Nefantar First Elder, though they are
-    inclined to present that spirit in such terms as a tragic chief overcome with
-    grief at the betrayal of his sons. This may very well not be the traditional view
-    of that spirit, but the Krusual claim otherwise.\n\nWhat is notable about the
-    traditional religious philosophy of the Minmatar is that the First Elders are
-    not simply traditional spirits worshiped or contemplated according to ancient
+    much of it is informal and mediated by convention. \n\n### Religion\n\n#### The
+    First Elders\n\nFrom the time of their first empire, the Minmatar traditionally
+    followed a set of religious philosophies that varied by tribe, but shared the
+    same pantheon of seven spirits. The spirits are known as the \u201CFirst Elders\u201D
+    and are considered individually to be tutelary spirits of each of the seven tribes
+    of Matar. In Minmatar philosophy, each spirit is seen as embodying a particular
+    aspect of the human condition. Interpretations of these aspects vary from tribe
+    to tribe, and it is perhaps no surprise that each tribe has a pronounced tendency
+    to regard its own tutelary First Elder in the most positive light. Attitudes to
+    the tutelaries of other tribes vary but are in the main reverent. Even the Krusual
+    give a grudging acknowledgement of the importance of the Nefantar First Elder,
+    though they are inclined to present that spirit in such terms as a tragic chief
+    overcome with grief at the betrayal of his sons. This may very well not be the
+    traditional view of that spirit, but the Krusual claim otherwise.\n\nWhat is notable
+    about the traditional religious philosophy of the Minmatar is that the First Elders
+    are not simply traditional spirits worshiped or contemplated according to ancient
     practice. As the First Elders are the mythological incarnations of the seven Minmatar
     tribes, the traditional practice has been for each tribe to select a man or woman
     from every generation dating back to antiquity and name her as that tribe\u2019s
@@ -522,8 +522,8 @@ content:
     that any notion that their spirituality necessarily divides them is false. If
     you ask the Minmatar they are likely to tell you that the bond they feel for their
     tribe is no barrier to community within the larger nation; instead, they lay the
-    blame squarely at the feet of the Amarr.\n\n### The Amarr Faith\n\nCertainly the
-    Amarr have had a strong influence on the Minmatar, and not just through simple
+    blame squarely at the feet of the Amarr.\n\n#### The Amarr Faith\n\nCertainly
+    the Amarr have had a strong influence on the Minmatar, and not just through simple
     slavery and subjugation. Many are the Minmatar slaves who have been indoctrinated
     into the Amarr religion or even adopted it willingly. The surviving Starkmanir
     and defector Nefantar have among them many who continue to follow the Amarr faith
@@ -732,4 +732,4 @@ sortOrder: 0
 title: Minmatar
 topics:
 - Minmatar
-updatedAt: '2021-11-12T21:09:37.031000+00:00'
+updatedAt: '2021-11-26T22:26:55.337000+00:00'
