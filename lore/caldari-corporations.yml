@@ -546,9 +546,9 @@ content:
   layout: default
 - body: '## Outlawed Organizations
 
-    There may some notable criminal gangs and terrorist groups of Caldari origin but
-    if anything that origin makes the State authorities and megacorps hunt them down
-    even more determinedly.'
+    There may be some notable criminal gangs and terrorist groups of Caldari origin
+    but if anything that origin makes the State authorities and megacorps hunt them
+    down even more determinedly.'
   id: 1XoTCtjyo1pd5K0kz4HrTn
   layout: default
 - body: '### Templis Dragonaurs
@@ -574,4 +574,4 @@ title: Caldari Corporations
 topics:
 - Caldari
 - Organizations
-updatedAt: '2021-11-01T09:20:55.515000+00:00'
+updatedAt: '2022-03-17T16:41:29.898000+00:00'
