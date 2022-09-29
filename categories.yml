@@ -9,6 +9,7 @@
   landingPage: null
   layout: chronological
   name: Chronicles
+  ordering: updated_at
   slug: chronicles
 - description: The Universe of EVE is dominated by four major empires inhabited by
     the Amarr, Caldari, Gallente and Minmatar peoples.
@@ -20,6 +21,7 @@
   landingPage: null
   layout: largePanel
   name: Empires
+  ordering: null
   slug: empires
 - description: While four core empires dominate New Eden, the Universe of EVE contains
     many other factions and organizations ranging from minor nations to pirate cartels.
@@ -31,6 +33,7 @@
   landingPage: null
   layout: condensedIcon
   name: Factions
+  ordering: null
   slug: factions
 - description: News from the New Eden cluster with a special focus on the activities
     of the capsuleers who roam interstellar space.
@@ -42,6 +45,7 @@
   landingPage: null
   layout: newsListing
   name: Interstellar Correspondents
+  ordering: publication_date
   slug: interstellar-correspondents
 - description: The Universe of EVE is filled with lore on empires, star systems, cities,
     technology, fauna and flora, and much else besides. Explore it all through these
@@ -54,6 +58,7 @@
   landingPage: null
   layout: default
   name: Lore
+  ordering: updated_at
   slug: lore
 - description: The latest news from around the cluster as told by the special reporters
     of the news organizations of New Eden.
@@ -65,6 +70,7 @@
   landingPage: null
   layout: newsListing
   name: New Eden News
+  ordering: publication_date
   slug: new-eden-news
 - description: Take a deep dive into the signature science and technology of EVE in
     these extended scientific articles.
@@ -76,6 +82,7 @@
   landingPage: null
   layout: default
   name: Scientific Articles
+  ordering: null
   slug: scientific-articles
 - description: Longer form short stories from the Universe of EVE. Immerse yourself
     in extended fiction that deals with key background moments.
@@ -87,4 +94,5 @@
   landingPage: null
   layout: default
   name: Short Stories
+  ordering: null
   slug: short-stories
