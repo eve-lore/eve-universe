@@ -10,6 +10,12 @@
   image: null
   name: Celene Duponte
   slug: celene-duponte
+- id: 4SxczehoJxBG8KElnZfWig
+  image:
+    resizable: true
+    url: //images.ctfassets.net/1gqwxa4vbed9/J9vTzBlHCdP3sxmM5cWjn/4e644426a878bf99b5b1555d5757c45b/Hana_Shikari_wide.png
+  name: Hana Shikari
+  slug: hana-shikari
 - id: ZNOghdfBLw9H5xIlSLljM
   image: null
   name: Lina Ambre
