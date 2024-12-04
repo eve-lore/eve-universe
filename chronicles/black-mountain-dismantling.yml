@@ -1,7 +1,18 @@
 author: null
 category: Chronicles
 content:
-- body: 'The repair facility falls to pieces. The metal debris which dotted its floors
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part fifteen
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    The repair facility falls to pieces. The metal debris which dotted its floors
     now flies through the air, shaken like dust in a gale. Some of it has been here
     almost as long as the station itself.
 
@@ -40,7 +51,7 @@ content:
     a safe haven, and you did not dock here expecting refuge.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     One of the pieces from the repair facility, a massive metal girder, pierces the
@@ -66,7 +77,7 @@ content:
     in the rivets and welds and wirings of the world around them.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Glass breaks all over the station. The main walkway, where the shopkeepers used
@@ -112,7 +123,7 @@ content:
     like a sacrificial offering to god, were never spoken of nor touched.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Close to the shopkeepers'' areas there is an open square. A gigantic piece of
@@ -151,7 +162,7 @@ content:
     never quite knew for sure who was watching.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     The seething magma melts through the floor and pours into tunnels and crevices
@@ -214,7 +225,7 @@ content:
     Not every action has a reaction, and not every movement leaves a trail.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     The living quarters have all but collapsed. The first ones to go were the high-rise
@@ -240,7 +251,7 @@ content:
     lived in bigger quarters than their parents, and wore grey clothes and grey faces.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     After the Rust collapses, everything goes. Corridors throughout the station crumble,
@@ -286,14 +297,14 @@ content:
     be let into paradise.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     And now the structure gives way for good. Central walls are shaken down, support
     girders are parted like chaff, and the destruction moves to the core of the station''s
     heart. The fires tear their way through every part of the station like ink in
     water, so omnipresent that they can no longer be distinguished from their surroundings.
-    This place is fire now, it has become an inferno and no longer a station, and
+    This place *is* fire now, it has become an inferno and no longer a station, and
     all that remains is for the outer walls to part and crack and reveal the gutting
     within. A station''s exterior is always the toughest part of its structure, for
     whatever happens inside may never be allowed to breach the outer shell.
@@ -326,13 +337,30 @@ content:
     are gone.'
   id: 6d9mRmmBX0Ao0H9UrylYJ1
   layout: default
-description: The repair facility falls to pieces. The metal debris which dotted its
-  floors now flies through the air, shaken like dust in a gale. Some of it has been
-  here almost as long as the station itself. For the longest time it had seemed like
-  the station wouldn't get built at all, surrounded as it was by scandal, controversy
-  and rocketing costs. Planetside resistance was immense, and build approvals were
-  only ratified after the Gallente government threatened to use the planet for experiments
-  in [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"5qOBPhhMBl6gytJnZe6s0p\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Black Mountain</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"61gZqkuYZPLDmVazWYav1e\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Sounding
+    the Horns of the Hunt</i>\n</a></span></div>"
+  id: 7vkrmmnG1r76bu5aGzzFDf
+  layout: default
+description: Part fifteen of the Black Mountain chronicle series. The repair facility
+  falls to pieces. The metal debris which dotted its floors now flies through the
+  air, shaken like dust in a gale. Some of it has been here almost as long as the
+  station itself. For the longest time it had seemed like the station wouldn't get
+  built at all, surrounded as it was by scandal, controversy and rocketing costs.
+  Planetside resistance was immense, and build approvals were only ratified after
+  the Gallente government [...]
 heroImage: null
 id: 7hI7NKs7djXNxSaQZPYU8P
 image: null
@@ -345,4 +373,4 @@ slug: black-mountain-dismantling
 sortOrder: 0
 title: 'Black Mountain: Dismantling'
 topics: []
-updatedAt: '2021-11-10T11:54:59.466000+00:00'
+updatedAt: '2024-12-03T12:48:02.985000+00:00'

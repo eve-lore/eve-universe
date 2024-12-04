@@ -1,8 +1,19 @@
 author: null
 category: Chronicles
 content:
-- body: '"How''re you feeling?" Hona asked. She had just entered Nale''s cabin, and
-    was sitting alongside him on the bunk."
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part nine
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    "How''re you feeling?" Hona asked. She had just entered Nale''s cabin, and was
+    sitting alongside him on the bunk."
 
 
     Nale rubbed his temples. "Feeling fine."
@@ -128,7 +139,7 @@ content:
     world left untouched. Yes, I was the one who changed, I was the one who found
     out that my own personal sphere of existence had been irrevocably altered. But
     I was still the same person, or at least I felt like I was. The world itself,
-    everything that is not me, that''s what changed."
+    everything that is not me, *that''s* what changed."
 
 
     "Or your perception of it."
@@ -181,7 +192,7 @@ content:
     can use the Book instead."
 
 
-    "That is horrible."
+    "That *is* horrible."
 
 
     "It''s what my people were planning to do all along. I just didn''t realize it
@@ -395,13 +406,30 @@ content:
     '
   id: 2840bJZz2Bh6widBuYIF3X
   layout: default
-description: '"How''re you feeling?" Hona asked. She had just entered Nale''s cabin,
-  and was sitting alongside him on the bunk." Nale rubbed his temples. "Feeling fine."
-  "You don''t look it." "A lot of things have changed. It''s tiring." She turned to
-  him. "I''m not blaming you, you know." "I know." "About my entire crew being turned
-  to vegetables." "I know." "I should be, but they knew the risk, same as me. All
-  that matters now is to stop her." "Yeah." "But I still want to know-" "Because I
-  didn''t realize her people [...]'
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"6CYBSRMHIMa5dDbBZWushN\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Hyperconsciousness</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"G2f6rA96DQdeLB8JEcSIr\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">The
+    Canvas</i>\n</a></span></div>"
+  id: 31dH10Hlp5c56buTMj0FIj
+  layout: default
+description: Part nine of the Black Mountain chronicle series. "How're you feeling?"
+  Hona asked. She had just entered Nale's cabin, and was sitting alongside him on
+  the bunk." Nale rubbed his temples. "Feeling fine." "You don't look it." "A lot
+  of things have changed. It's tiring." She turned to him. "I'm not blaming you, you
+  know." "I know." "About my entire crew being turned to vegetables." "I know." "I
+  should be, but they knew the risk, same as me. All that matters now is to stop her."
+  "Yeah." "But I still want [...]
 heroImage: null
 id: 7qOQgpv7BozXA4uSdCYbdl
 image: null
@@ -414,4 +442,4 @@ slug: black-mountain-pushing-towards-bliss
 sortOrder: 0
 title: 'Black Mountain: Pushing Towards Bliss'
 topics: []
-updatedAt: '2021-11-10T11:54:07.785000+00:00'
+updatedAt: '2024-12-03T12:47:02.910000+00:00'

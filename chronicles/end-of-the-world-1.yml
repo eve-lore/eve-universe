@@ -1,10 +1,22 @@
 author: null
 category: Chronicles
 content:
-- body: '![End of the World 1](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/1.jpg)
+- body: '<p align="center"><img src="https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/1.jpg"
+    alt="End of the World 1"
+
+    style="max-width:97.5%;max-height:512px;border: 1px solid #2b2b2ba6;box-shadow:
+    2px 2px 6px 2px #0c0c0c8c;margin-bottom:2em"></p>
 
 
-    ---
+    <div style="text-align:center;line-height:172.5%;font-style:italic;margin:-1.4125em
+    0px -0.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part three
+    of the</i>
+
+    <a href="4aoleqrgiwB8OkLolwPdvX">End of the World</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -2.5%, grey
+    16.66%, #ababab 50%, grey 83.33%, #80808000 102.5%);opacity:0.5;margin-top:1.125em"></div>
 
 
     The Sisters reached the source of their quest, and found it strange and frightening.
@@ -35,7 +47,7 @@ content:
     The construct took the Sisters'' speech away. And it was only after they had caught
     their breath that they realized it was not dead. Not moving, for movement implies
     life, but inhabited, possessed; and whatever had claimed or made this monster
-    was writhing all over it.
+    was *writhing* all over it.
 
 
     They were rogue drones: Mad, sentient machines as close to alien life as New Eden
@@ -358,18 +370,33 @@ content:
 
     And the ship''s captain learned that faith is not enough, for faith is blind by
     nature. Life needs insight. It is the dead, and the dying, that allow themselves
-    to be led.
-
-    '
+    to be led.'
   id: 4R4ib9voqhTmxbj5aRQjge
   layout: default
-description: The Sisters reached the source of their quest, and found it strange and
-  frightening. One of the navigators called the captain to the bridge. "Sir," he said
-  in a tone as coldly dead as a grinning midnight moon, "I think you want to see this."
-  It was a gargantuan construct. It eclipsed the stars. The captain had never seen
-  anything like it in his life. At some point there had been rock there, with shards
-  of unrefined ore poking through its surface like shards of bone from an open break.
-  The rock could [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"4uT1LNhQSAVn1oKIS5qjYQ\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Half a Life</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"6WhVz4jAZxsRdqsbj6qq5L\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">The
+    Great Harvest</i>\n</a></span></div>"
+  id: 4tcjRXEIfl1LbNLW2VEN8X
+  layout: default
+description: Part three of the End of the World chronicle series. The Sisters reached
+  the source of their quest, and found it strange and frightening. One of the navigators
+  called the captain to the bridge. "Sir," he said in a tone as coldly dead as a grinning
+  midnight moon, "I think you want to see this." It was a gargantuan construct. It
+  eclipsed the stars. The captain had never seen anything like it in his life. At
+  some point there had been rock there, with shards of unrefined ore poking through
+  its surface [...]
 heroImage: null
 id: 3hPIhmRKSskaaHFPdhMeO3
 image: null
@@ -380,7 +407,7 @@ parent: null
 publicationDate: '2009-02-02T00:00:00'
 slug: end-of-the-world-1
 sortOrder: 0
-title: 'End of the World: "1"'
+title: 'End of the World: 1'
 topics:
 - SOE
-updatedAt: '2021-11-10T11:35:34.908000+00:00'
+updatedAt: '2024-12-03T12:48:48.198000+00:00'

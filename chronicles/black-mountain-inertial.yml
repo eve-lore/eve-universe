@@ -1,7 +1,15 @@
 author: null
 category: Chronicles
 content:
-- body: '![inertial](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleBoxImage/inertial.jpg#left)
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part two of
+    the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
 
 
     Nale wiped the sweat off his brow. He''d only just returned to the bench after
@@ -102,7 +110,7 @@ content:
     "Good."
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     He wanted to die.
@@ -160,11 +168,11 @@ content:
 
     The monitor gave him a funny look, then said. "Tests are over. After you''ve cleaned
     up, ops people want to talk to you." The monitor looked at the screen showing
-    Nale''s vitals and said, "Now his adrenaline rises. You''re a strange, strange
+    Nale''s vitals and said, "*Now* his adrenaline rises. You''re a strange, strange
     man, Nale."
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     He walked into a large and remarkably low-tech room. It had one round table whose
@@ -318,13 +326,30 @@ content:
     "Welcome to the team," Berkhes said.'
   id: 4nQNGS9tVsSzVTSuN9BRng
   layout: default
-description: Nale wiped the sweat off his brow. He'd only just returned to the bench
-  after the day's physical set, and his hands were still shaking. If he weren't a
-  dying man, he'd have been worried about his health. He looked around. The gym was
-  active, if basic. The mats weren't self-cleaning, but they did have a fairly good
-  antibacterial skin - as Nale had been grateful for during all those times he'd had
-  to do sprawl or duck-and-roll exercises - and they were being put to good use by
-  two dozen men engaged in [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"4X2CWnlv8Ec2yZEHzEI277\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">On This Earth</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"2T4JKXUZLCtk4iisoRqOss\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">The
+    Room</i>\n</a></span></div>"
+  id: 5wsPrZNop7b9htlxa3TVeU
+  layout: default
+description: Part two of the Black Mountain chronicle series. Nale wiped the sweat
+  off his brow. He'd only just returned to the bench after the day's physical set,
+  and his hands were still shaking. If he weren't a dying man, he'd have been worried
+  about his health. He looked around. The gym was active, if basic. The mats weren't
+  self-cleaning, but they did have a fairly good antibacterial skin - as Nale had
+  been grateful for during all those times he'd had to do sprawl or duck-and-roll
+  exercises - and they were [...]
 heroImage: null
 id: 696JMsyeIwYbslZaDVyXd0
 image: null
@@ -338,4 +363,4 @@ sortOrder: 0
 title: 'Black Mountain: Inertial'
 topics:
 - SOE
-updatedAt: '2021-11-11T00:27:14.692000+00:00'
+updatedAt: '2024-12-03T12:45:43.287000+00:00'

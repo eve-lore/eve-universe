@@ -1,7 +1,15 @@
 author: null
 category: Chronicles
 content:
-- body: "![hyperconsciousness](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleBoxImage/hyperconsiousness.jpg#left)\n\nDespite
+- body: "<div style=\"text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;\"><i style=\"color:#858585;font-family:'Titillium Web'\">Part eight
+    of the</i>\n<a href=\"4X2CWnlv8Ec2yZEHzEI277\">Black Mountain</a><i style=\"color:#858585;font-family:'Titillium
+    Web'\"> chronicle series, published as an accompaniment to</i>\n<a href=\"6SXLhc8LbsbFaaFNEZU8Gb\">Some
+    Dying Angel.</a><br><i style=\"color:#858585;font-family:'Titillium Web'\">Note:
+    The Society's involvements, relations, and agendas have </i><a href=\"5rSbUgA73ZZovkdIo6FOsa\">significantly
+    evolved</a><i style=\"color:#858585;font-family:'Titillium Web'\"> since the time
+    of this chronicle.</i>\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -5%, grey 6.66%, #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.75em\"></div>\n\nDespite
     its attempts in recent times to project the image of a network of high-class academic
     establishments for New Eden's elite, the Society of Conscious Thought remains
     first and foremost a research institute with a vigorous interest in the technical
@@ -171,13 +179,30 @@ content:
     and start its own hunt for the item."
   id: o58zIbkZVtReszvygQqLf
   layout: default
-description: Despite its attempts in recent times to project the image of a network
-  of high-class academic establishments for New Eden's elite, the Society of Conscious
-  Thought remains first and foremost a research institute with a vigorous interest
-  in the technical advancement of society. This is no secret; after all, the Jove
-  are an inquisitive lot, and in the protective isolation of the Society's enclaves,
-  called kitzes, there's no telling what new developments may be brewing. That's not
-  to say the Society has [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"6SXLhc8LbsbFaaFNEZU8Gb\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Some Dying Angel</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -7px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"7qOQgpv7BozXA4uSdCYbdl\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Pushing
+    Towards Bliss</i>\n</a></span></div>"
+  id: 4FWncz3pBHeUy52yarXUTE
+  layout: default
+description: 'Part eight of the Black Mountain chronicle series, published as an accompaniment
+  to Some Dying Angel.Note: The Society''s involvements, relations, and agendas have
+  significantly evolved since the time of this chronicle. Despite its attempts in
+  recent times to project the image of a network of high-class academic establishments
+  for New Eden''s elite, the Society of Conscious Thought remains first and foremost
+  a research institute with a vigorous interest in the technical advancement of society.
+  This is [...]'
 heroImage: null
 id: 6CYBSRMHIMa5dDbBZWushN
 image: null
@@ -185,10 +210,10 @@ listingImage:
   resizable: false
   url: https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleBoxImage/hyperconsiousness.jpg
 parent: null
-publicationDate: '2007-11-19T12:00:00'
+publicationDate: '2007-11-19T00:01:00'
 slug: black-mountain-hyperconsciousness
 sortOrder: 0
 title: 'Black Mountain: Hyperconsciousness'
 topics:
 - SoCT
-updatedAt: '2021-11-05T14:07:51.416000+00:00'
+updatedAt: '2024-12-03T12:46:55.058000+00:00'

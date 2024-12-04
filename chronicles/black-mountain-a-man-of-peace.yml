@@ -1,8 +1,19 @@
 author: null
 category: Chronicles
 content:
-- body: 'Nale''s team was heading towards their ship, collectively wondering what
-    just happened and what to do next, when they were met by Hona and a team of Angels.
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part six of
+    the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Nale''s team was heading towards their ship, collectively wondering what just
+    happened and what to do next, when they were met by Hona and a team of Angels.
     She stopped them and said, "You''re coming with me."
 
 
@@ -25,7 +36,7 @@ content:
 
     "Look, far be it from me to criticize this plan, and thank you so much for getting
     us into the merchant''s office and out of that shootout at the warehouse," Nale
-    said, "but who are you?"
+    said, "but *who are you?*"
 
 
     "I''m the captain of a task force."
@@ -42,7 +53,7 @@ content:
     Lead on."
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     A while later, they were onboard an Angel ship staffed by Hona''s own hand-picked
@@ -284,7 +295,7 @@ content:
     be in the shot''s way.
 
 
-    "How do you do that?" she said, exasperated.
+    "How do you *do* that?" she said, exasperated.
 
 
     "I''ve got a talent for taking things in, little details. The undocking?"
@@ -317,7 +328,8 @@ content:
 
 
     She rested the gun on her shoulder, leaned her head to one side and asked, "This
-    is a peaceable mission you''re on, right? This healing machine of yours and all."
+    *is* a peaceable mission you''re on, right? This healing machine of yours and
+    all."
 
 
     "It''s supposed to be," he said.
@@ -447,7 +459,7 @@ content:
 
 
     "Leave it to a real woman to think things through," Hona said. "They''re called
-    Sisters for a reason, you know."
+    Sisters for a *reason*, you know."
 
 
     He grinned, then furrowed his brow. "It''s just ... we so have to get this right.
@@ -483,13 +495,30 @@ content:
     yourself."'
   id: 6G2IicfcaEWiB2Pja7dQmU
   layout: default
-description: Nale's team was heading towards their ship, collectively wondering what
-  just happened and what to do next, when they were met by Hona and a team of Angels.
-  She stopped them and said, "You're coming with me." They balked at it, but she said,
-  "We lost the attackers but we know where they're headed, and whatever you people
-  are after, it'll be there, too," and started walking. They looked at one another,
-  then started to follow her. On the way, she explained to them, "The second we disengaged,
-  I looked up [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"7KuR4Db6yJrA7LfA7eA6rM\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Of a Sentence</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"6SXLhc8LbsbFaaFNEZU8Gb\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Some
+    Dying Angel</i>\n</a></span></div>"
+  id: 38XJEcTam2silbRYmf5ofV
+  layout: default
+description: Part six of the Black Mountain chronicle series. Nale's team was heading
+  towards their ship, collectively wondering what just happened and what to do next,
+  when they were met by Hona and a team of Angels. She stopped them and said, "You're
+  coming with me." They balked at it, but she said, "We lost the attackers but we
+  know where they're headed, and whatever you people are after, it'll be there, too,"
+  and started walking. They looked at one another, then started to follow her. On
+  the way, she explained [...]
 heroImage: null
 id: 1gQjOro1TAsIIz3q1AbFHO
 image: null
@@ -498,8 +527,8 @@ listingImage:
   url: https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleBoxImage/amanofpeace.jpg
 parent: null
 publicationDate: '2007-11-05T00:00:00'
-slug: a-man-of-peace
+slug: black-mountain-a-man-of-peace
 sortOrder: 0
-title: A Man of Peace
+title: 'Black Mountain: A Man of Peace'
 topics: []
-updatedAt: '2021-11-10T11:54:45.368000+00:00'
+updatedAt: '2024-12-03T12:46:35.497000+00:00'

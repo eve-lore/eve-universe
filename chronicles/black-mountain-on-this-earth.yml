@@ -1,8 +1,25 @@
 author: null
 category: Chronicles
 content:
-- body: 'As the inspector was leaving her apartment, he said, "Now, you''ll be sure
-    to report anything suspicious. If there really is someone on this facility causing
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part one of
+    the</i>
+
+    <i style="font-weight: 400;opacity:0.85">Black Mountain</i><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.<br>Black Mountain has two prologues,</i>
+
+    <a href="6fRMIYHUeh8DetyUjUrsb5">The Greatest Joke</a><i style="color:#858585;font-family:''Titillium
+    Web''"> and</i>
+
+    <a href="4iBaAWiG3D30XcZDt9OLU5">Post Mortem</a><i style="color:#858585;font-family:''Titillium
+    Web''">, which introduce the series'' protagonists.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.75em"></div>
+
+
+    As the inspector was leaving her apartment, he said, "Now, you''ll be sure to
+    report anything suspicious. If there really is someone on this facility causing
     problems, we need to catch him before the pirates do."
 
 
@@ -122,7 +139,7 @@ content:
     head and blew his brains out all over the floor.
 
 
-    ***
+    <div align=center>***</div>
 
 
     It was the day after, and Atira was returning home from her shift. She was puzzled,
@@ -345,13 +362,23 @@ content:
     have to move you up a division."'
   id: 01Mkvj04hfqg1XFA4Y0ieC
   layout: default
-description: As the inspector was leaving her apartment, he said, "Now, you'll be
-  sure to report anything suspicious. If there really is someone on this facility
-  causing problems, we need to catch him before the pirates do." "I will, I promise,"
-  Atira said. She saw the man out, closed the door after him, and rested her forehead
-  against its cool steel with a sigh. A lot of off-ship pirates had been disappearing
-  in this area, and while this development was little bother for the corporate forces
-  who paid for the [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"696JMsyeIwYbslZaDVyXd0\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Inertial</i>\n</a></span></div>"
+  id: 2jPAQSDlbUoZoC3CtXuBKN
+  layout: default
+description: Part one of the Black Mountain chronicle series.Black Mountain has two
+  prologues, The Greatest Joke and Post Mortem, which introduce the series' protagonists.
+  As the inspector was leaving her apartment, he said, "Now, you'll be sure to report
+  anything suspicious. If there really is someone on this facility causing problems,
+  we need to catch him before the pirates do." "I will, I promise," Atira said. She
+  saw the man out, closed the door after him, and rested her forehead against its
+  cool steel with a [...]
 heroImage: null
 id: 4X2CWnlv8Ec2yZEHzEI277
 image: null
@@ -365,4 +392,4 @@ sortOrder: 0
 title: 'Black Mountain: On This Earth'
 topics:
 - Technology
-updatedAt: '2021-11-10T11:42:00.983000+00:00'
+updatedAt: '2024-12-03T12:44:01.215000+00:00'

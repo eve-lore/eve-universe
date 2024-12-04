@@ -1,10 +1,22 @@
 author: null
 category: Chronicles
 content:
-- body: '![The Spiral](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/thespiral.jpg)
+- body: '<p align="center"><img src="https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/thespiral.jpg"
+    alt="The Spiral"
+
+    style="max-width:97.5%;max-height:512px;border: 1px solid #2b2b2ba6;box-shadow:
+    2px 2px 6px 2px #0c0c0c8c;margin-bottom:2em"></p>
 
 
-    ---
+    <div style="text-align:center;line-height:172.5%;font-style:italic;margin:-1.4125em
+    0px -0.25em"><i style="color:#858585;font-family:''Titillium Web''">Part one of
+    the</i>
+
+    <i style="font-weight: 400;opacity:0.85">End of the World</i><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -2.5%, grey
+    16.66%, #ababab 50%, grey 83.33%, #80808000 102.5%);opacity:0.5;margin-top:1.125em"></div>
 
 
     "This is a spiral we''re in; a long wave undulating in one constant direction
@@ -19,7 +31,7 @@ content:
     "Everything leads you to where you are."
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     I was a member of the Sanctuary, a corporation that belonged to the benevolent
@@ -49,7 +61,7 @@ content:
     key unless it had something to unlock.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     It took a lot of patience, which sometimes ran dry, and energy, which was often
@@ -74,7 +86,7 @@ content:
     be connected. I knew I was on to something.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Acquiring a small vessel and a few stores of investigative equipment - interest
@@ -96,7 +108,7 @@ content:
     to my ultimate goal.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Like starry lights the little rips led me on a brief and hair-raising series of
@@ -137,7 +149,7 @@ content:
     that my presence there had not been noted or understood.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Back at the Sisters base I spent several days and nights crunching the data, fuelled
@@ -184,7 +196,7 @@ content:
     I was given the ship, and given the supplies, and granted the crew.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     I looked over my people. We would go somewhere no one had ever gone, and play
@@ -195,13 +207,24 @@ content:
     we moved on in faith.'
   id: 1Uf6z16aacJySxUB5YxqB6
   layout: default
-description: '"This is a spiral we''re in; a long wave undulating in one constant
-  direction without ever crashing on the shore. Listen." I sat with them in the mess
-  hall of our new ship. Some of these people I had worked with for years. Others were
-  new to me, and had joined as parts of a process that now felt like a procession.
-  "Everything leads you to where you are." I was a member of the Sanctuary, a corporation
-  that belonged to the benevolent Sisters of EVE. While the Sisters as a whole concerned
-  themselves with [...]'
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"4uT1LNhQSAVn1oKIS5qjYQ\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Half
+    a Life</i>\n</a></span></div>"
+  id: 5wP6zAgNjkg1jslHUnGSkD
+  layout: default
+description: Part one of the End of the World chronicle series. "This is a spiral
+  we're in; a long wave undulating in one constant direction without ever crashing
+  on the shore. Listen." I sat with them in the mess hall of our new ship. Some of
+  these people I had worked with for years. Others were new to me, and had joined
+  as parts of a process that now felt like a procession. "Everything leads you to
+  where you are." *** I was a member of the Sanctuary, a corporation that belonged
+  to the benevolent Sisters of EVE. [...]
 heroImage: null
 id: 4aoleqrgiwB8OkLolwPdvX
 image: null
@@ -212,6 +235,6 @@ parent: null
 publicationDate: '2009-01-19T00:00:00'
 slug: the-spiral
 sortOrder: 0
-title: The Spiral
+title: 'End of the World: The Spiral'
 topics: []
-updatedAt: '2021-11-10T11:46:20.774000+00:00'
+updatedAt: '2024-12-03T12:48:30.878000+00:00'

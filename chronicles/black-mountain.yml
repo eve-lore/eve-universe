@@ -1,7 +1,18 @@
 author: null
 category: Chronicles
 content:
-- body: 'Nale and Hona stood in front of a large warehouse. It was an unnerving place;
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part fourteen
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Nale and Hona stood in front of a large warehouse. It was an unnerving place;
     the entire area was suffused with a strange smell, and there was absolutely no
     action, movement or sound detectable in the surroundings. The doors in front of
     them, the height of a five-story building, were locked with complicated electronic
@@ -97,7 +108,7 @@ content:
 
 
     "You don''t understand. There''s a dent in the wall. She threw that knife hard
-    enough to break its blade."
+    enough to break its *blade*."
 
 
     Nale turned to her. "Don''t lose faith. She was only testing us. We''re doing
@@ -408,13 +419,29 @@ content:
     the end of days arrived, and the entire station exploded like a nova.'
   id: 5TXnTPKaFCP8MtrJGQ2NCN
   layout: default
-description: Nale and Hona stood in front of a large warehouse. It was an unnerving
-  place; the entire area was suffused with a strange smell, and there was absolutely
-  no action, movement or sound detectable in the surroundings. The doors in front
-  of them, the height of a five-story building, were locked with complicated electronic
-  safeguards. "Are you sure it's here?" Hona asked him. "It's here," he said. "This
-  is the end, and a new beginning." "She's going to kill you," she said. "I've died
-  twice already," he [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"2fIAf6Dxt5cSoTRmBxJnKV\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Polymelia</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"7hI7NKs7djXNxSaQZPYU8P\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Dismantling</i>\n</a></span></div>"
+  id: 5jdeO7nCP3HxllRiDcl4iJ
+  layout: default
+description: Part fourteen of the Black Mountain chronicle series. Nale and Hona stood
+  in front of a large warehouse. It was an unnerving place; the entire area was suffused
+  with a strange smell, and there was absolutely no action, movement or sound detectable
+  in the surroundings. The doors in front of them, the height of a five-story building,
+  were locked with complicated electronic safeguards. "Are you sure it's here?" Hona
+  asked him. "It's here," he said. "This is the end, and a new beginning." "She's
+  going to [...]
 heroImage: null
 id: 5qOBPhhMBl6gytJnZe6s0p
 image: null
@@ -427,4 +454,4 @@ slug: black-mountain
 sortOrder: 0
 title: Black Mountain
 topics: []
-updatedAt: '2021-11-10T11:54:18.338000+00:00'
+updatedAt: '2024-12-03T12:47:51.826000+00:00'

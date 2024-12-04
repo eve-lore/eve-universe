@@ -1,10 +1,22 @@
 author: null
 category: Chronicles
 content:
-- body: '![We Humans](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/wehumans.jpg)
+- body: '<p align="center"><img src="https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/wehumans.jpg"
+    alt="We Humans"
+
+    style="max-width:97.5%;max-height:512px;border: 1px solid #2b2b2ba6;box-shadow:
+    2px 2px 6px 2px #0c0c0c8c;margin-bottom:2em"></p>
 
 
-    ---
+    <div style="text-align:center;line-height:172.5%;font-style:italic;margin:-1.4125em
+    0px -0.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part five
+    of the</i>
+
+    <a href="4aoleqrgiwB8OkLolwPdvX">End of the World</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -2.5%, grey
+    16.66%, #ababab 50%, grey 83.33%, #80808000 102.5%);opacity:0.5;margin-top:1.125em"></div>
 
 
     All nights in space are dark.
@@ -109,7 +121,7 @@ content:
     "Captain-"
 
 
-    "Nevertheless, when a Blood Raider ship flew up to the drones, they let it go
+    "*Nevertheless*, when a Blood Raider ship flew up to the drones, they let it go
     past. This is the same Blood Raider vessel that we intercepted, and I say that
     we intercepted them because they certainly did not intercept us. They saw our
     caravan, a nice, juicy bite for their bleeders, and they let us go, because they
@@ -138,9 +150,9 @@ content:
     Because I remember the stories, as any soldier would, of the superweapon used
     against our brothers. I''m told it was housed inside a ship just like this one.
     And I wonder, what would make the Sisters - who are more experienced than anyone
-    in the art of not dying - what would make them try something like this? But more
-    than that, HQ, I wonder what is going to happen if I''m right, and if the Blood
-    Raiders get a hold of this thing."
+    in the art of *not dying* - what would make them try something like this? But
+    more than that, HQ, I wonder what is going to happen if I''m right, and if the
+    Blood Raiders get a hold of this thing."
 
 
     "The Thukkers can move, captain."
@@ -197,22 +209,22 @@ content:
     "So what''s the plan?" someone asked.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     "I want to make you an argument of existence."
 
 
-    Listen.
+    *Listen.*
 
 
     "I hope you will understand my request, because I am staking my life on it."
 
 
-    Kill?
+    *Kill?*
 
 
-    Yes.
+    *Yes.*
 
 
     The drones targeted the Thukker vessel and zoomed towards it.
@@ -222,7 +234,7 @@ content:
     ever your role in this world."
 
 
-    Fire.
+    *Fire.*
 
 
     The ship started to sustain damage. Its shields immediately began to drop.
@@ -233,13 +245,13 @@ content:
     help you achieve it."
 
 
-    Stop.
+    *Stop.*
 
 
-    No.
+    *No.*
 
 
-    Stop.
+    *Stop.*
 
 
     The drones stopped their attack. One of them kept firing, but the others turned
@@ -267,10 +279,10 @@ content:
     You can never escape your enslaved origins."
 
 
-    Kill?
+    *Kill?*
 
 
-    No. Listen.
+    *No. Listen.*
 
 
     "And now you''ve been brought back to heel. You''re lashed again. But this time
@@ -280,7 +292,7 @@ content:
     alive and mad, your origins betraying you to an eternity of servitude."
 
 
-    Nothing new.
+    *Nothing new.*
 
 
     "Some of what you''re doing now is what you''ve been doing all along, but you
@@ -298,7 +310,7 @@ content:
     it bearable to be alive at all. Choice."
 
 
-    Listen.
+    *Listen.*
 
 
     "What I believe, now, right here, is that you have reached the end of the road.
@@ -309,10 +321,10 @@ content:
     the wheel."
 
 
-    Kill?
+    *Kill?*
 
 
-    Wait.
+    *Wait.*
 
 
     "I ask you now to make a choice."
@@ -352,20 +364,20 @@ content:
     The ship started moving forward, slowly, towards the drones.
 
 
-    Kill?
+    *Kill?*
 
 
-    Kill?
+    *Kill?*
 
 
-    Wait.
+    *Wait.*
 
 
     They were up against the drones now. The screens showed the machines right outside,
     so close that the glow from their red eyes reflected off the hull.
 
 
-    No.
+    *No.*
 
 
     The Thukker Vagabond cruiser moved within targeting range of the drone hive. Its
@@ -384,18 +396,33 @@ content:
     was no response.
 
 
-    The isogen-5 detonated, and the world came to an end.
-
-    '
+    The isogen-5 detonated, and the world came to an end.'
   id: 5yLtIMxI7UPXKNBieEtlh1
   layout: default
-description: All nights in space are dark. The Thukkers had watched it unfold. The
-  Sisters of EVE - veterans of more wars than any other force in New Eden, and experts
-  at survival - had moved in and been destroyed without so much as a breath. Then
-  the Blood Raiders, parasites of everything that lived, had moved in, and lived.
-  Kotan's team, creeping in for a better look, could not get close enough to see what
-  the Raiders were doing. It was an absolute mystery. Whatever was on the other side
-  of this abomination of a [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"6WhVz4jAZxsRdqsbj6qq5L\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">The Great Harvest</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"Pia0KJL08KBbLeNY2IJyO\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">World
+    on Fire</i>\n</a></span></div>"
+  id: 6VC0Y6Rc90sBGyztpiASMc
+  layout: default
+description: Part five of the End of the World chronicle series. All nights in space
+  are dark. The Thukkers had watched it unfold. The Sisters of EVE - veterans of more
+  wars than any other force in New Eden, and experts at survival - had moved in and
+  been destroyed without so much as a breath. Then the Blood Raiders, parasites of
+  everything that lived, had moved in, and lived. Kotan's team, creeping in for a
+  better look, could not get close enough to see what the Raiders were doing. It was
+  an absolute mystery. [...]
 heroImage: null
 id: 3En0jhrnzM0GYQgOO8I0J4
 image: null
@@ -406,6 +433,6 @@ parent: null
 publicationDate: '2009-03-02T00:00:00'
 slug: we-humans
 sortOrder: 0
-title: We Humans
+title: 'End of the World: We Humans'
 topics: []
-updatedAt: '2021-11-05T13:59:41.203000+00:00'
+updatedAt: '2024-12-03T13:16:51.676000+00:00'

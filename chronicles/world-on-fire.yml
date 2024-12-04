@@ -1,7 +1,14 @@
 author: null
 category: Chronicles
 content:
-- body: "![World on Fire](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/worldonfire.jpg)\n\n---\n\nAs
+- body: "<p align=\"center\"><img src=\"https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/worldonfire.jpg\"
+    alt=\"World on Fire\"\nstyle=\"max-width:97.5%;max-height:512px;border: 1px solid
+    #2b2b2ba6;box-shadow: 2px 2px 6px 2px #0c0c0c8c;margin-bottom:2em\"></p>\n\n<div
+    style=\"text-align:center;line-height:172.5%;font-style:italic;margin:-1.4125em
+    0px -0.25em;\"><i style=\"color:#858585;font-family:'Titillium Web'\">Final part
+    of the</i>\n<a href=\"4aoleqrgiwB8OkLolwPdvX\">End of the World</a><i style=\"color:#858585;font-family:'Titillium
+    Web'\"> chronicle series.</i>\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 16.66%, #ababab 50%, grey 83.33%, #80808000 102.5%);opacity:0.5;margin-top:1.125em\"></div>\n\nAs
     he watched his crew slowly bring the end of the world to light, Antar found it
     increasingly difficult to see this as anything but the end of himself.\n\nA long
     time ago he had realized that the full extent of a life demanded the experience
@@ -26,38 +33,39 @@ content:
     when a watchful crewmember reported a Thukker vessel creeping in, and when he
     saw where the Thukker ship was headed - not for their vessel but for the drones
     and the hive - he smiled, and then grinned so wide he had to turn away.\n\nAnd
-    he told his people not to worry.\n\n***\n\nMost of New Eden would never know the
-    horror of Antar's deeds, or the bravery of the Thukker crew. They would only know
-    the cataclysm which followed, and the pain of millions as they suffered a fate
-    that would satiate even the most devoted Blood Raider's thirst for widespread
-    destruction.\n\nThere was no pain for Antar or Kotan. Existence for the crewmen
-    aboard both ships had ceased without their being aware of its instantaneous termination,
-    as the constituent particles of their physical selves were torn apart and scattered
-    into the void at velocities approaching the speed of light.\n\nIt was just as
-    well for them.\n\nOf all the people touched by the event they had triggered, theirs
-    was the most humane fate. For neither captain knew that the immense stock of isogen-5
-    which detonated before their eyes was entangled with numerous stockpiles in even
-    greater quantities, assembled for a very specific purpose, and deliberately scattered
-    throughout the New Eden cluster and beyond.\n\nNor could they know that the ancient
-    race which had placed them there possessed not only a vision beyond the grasp
-    of today's science, but also the technological advancement necessary to realize
-    its potential.\n\nBut all tools, no matter how simple or complex, possess a duality
-    of purpose. Fire can provide life-giving warmth, or can burn the flesh from the
-    bone.\n\n***\n\n\"I'm sure this was covered during orientation,\" Dr. Garcia stated,
-    loud enough to draw the attention of other staff in the cramped facility. \"But
-    Cassandra would tell you if there was a problem.\"\n\nThe young technician squirmed
-    in his chair. As the newest member of the team, he would have preferred to not
-    be the one to announce that the most advanced solar monitoring system of the Federation
-    had just inexplicably gone offline.\n\nYet the protocol for managing this kind
-    of situation was unwritten, and so pressing the equivalent of a \"panic button\"
-    seemed a reasonable course of action. Now every senior researcher in the facility
-    was standing shoulder to shoulder in the weather operations center, waiting impatiently
-    for an explanation they didn't expect to be worth their time.\n\nThe watch officer
-    muttered a curse. \"SCOPE just picked up on it,\" he growled, shaking his head.
-    \"Must be a slow news day. Goddamn eavesdroppers.\"\n\nDr. Garcia's glare was
-    burning holes into the new recruit. Everyone in the room figured he'd be bounced
-    back to University within the hour.\n\n\"Show us what you have.\"\n\nThe tech
-    briefly explained his actions before resorting to the playback. The telemetry
+    he told his people not to worry.\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\nMost
+    of New Eden would never know the horror of Antar's deeds, or the bravery of the
+    Thukker crew. They would only know the cataclysm which followed, and the pain
+    of millions as they suffered a fate that would satiate even the most devoted Blood
+    Raider's thirst for widespread destruction.\n\nThere was no pain for Antar or
+    Kotan. Existence for the crewmen aboard both ships had ceased without their being
+    aware of its instantaneous termination, as the constituent particles of their
+    physical selves were torn apart and scattered into the void at velocities approaching
+    the speed of light.\n\nIt was just as well for them.\n\nOf all the people touched
+    by the event they had triggered, theirs was the most humane fate. For neither
+    captain knew that the immense stock of isogen-5 which detonated before their eyes
+    was entangled with numerous stockpiles in even greater quantities, assembled for
+    a very specific purpose, and deliberately scattered throughout the New Eden cluster
+    and beyond.\n\nNor could they know that the ancient race which had placed them
+    there possessed not only a vision beyond the grasp of today's science, but also
+    the technological advancement necessary to realize its potential.\n\nBut all tools,
+    no matter how simple or complex, possess a duality of purpose. Fire can provide
+    life-giving warmth, or can burn the flesh from the bone.\n\n<div align=\"center\"
+    style=\"margin-top:2.625em\">***</div>\n\n\"I'm sure this was covered during orientation,\"
+    Dr. Garcia stated, loud enough to draw the attention of other staff in the cramped
+    facility. \"But Cassandra would tell you if there was a problem.\"\n\nThe young
+    technician squirmed in his chair. As the newest member of the team, he would have
+    preferred to not be the one to announce that the most advanced solar monitoring
+    system of the Federation had just inexplicably gone offline.\n\nYet the protocol
+    for managing this kind of situation was unwritten, and so pressing the equivalent
+    of a \"panic button\" seemed a reasonable course of action. Now every senior researcher
+    in the facility was standing shoulder to shoulder in the weather operations center,
+    waiting impatiently for an explanation they didn't expect to be worth their time.\n\nThe
+    watch officer muttered a curse. \"SCOPE just picked up on it,\" he growled, shaking
+    his head. \"Must be a slow news day. Goddamn eavesdroppers.\"\n\nDr. Garcia's
+    glare was burning holes into the new recruit. Everyone in the room figured he'd
+    be bounced back to University within the hour.\n\n\"Show us what you have.\"\n\nThe
+    tech briefly explained his actions before resorting to the playback. The telemetry
     had to be slowed down to frames just fractions of a millisecond in length so everyone
     could see it.\n\nEvery sensor in Cassandra's advanced suite of solar monitoring
     gear had spiked to impossible levels: subspace, gravimetric, electromagnetic,
@@ -69,73 +77,74 @@ content:
     explosion.\n\nDr. Garcia blinked. \"Impossible,\" she mumbled. \"Stars can't do
     that...\"\n\nAs if remembering something urgent, she glanced at her watch. \"How
     long ago did this happen?\"\n\nThe technician checked his instruments before answering.\n\n\"About
-    three minutes ago.\"\n\n***\n\nIt seemed like an unlikely place to build a thriving
-    metropolis.\n\nDevoid of any atmosphere, Seyllin I was a hellish world whose daytime
-    surface temperature soared high enough to turn lead into molten slag. Though deep
-    within Federation space, the world and system may as well been an unremarkable
-    fringe territory hardly worth the fuel needed to reach it. Sixty years ago, an
-    independent surveyor named Braggs Seyllin left an executive position with Material
-    Acquisition to prospect on his own. Smitten with the endless optimism of a true
-    pioneer, he vowed to build a mining empire that would rival the corporation which
-    launched his career.\n\nAfter numerous years and hardships which depleted the
-    entirety of his fortune, Braggs Seyllin finally struck gold\u2014literally\u2014with
-    TLXX-01, the Federation catalog name of the system which would later bear his
-    name. Deep beneath the surface of that cratered wasteland was a treasure trove
-    of natural resources, including an abundance of heavier metals coveted in virtually
-    every manufacturing sector of the cluster.\n\nUndaunted by the steep logistical
-    challenge of harvesting this bounty, Seyllin raised the capital he needed from
-    governments, corporations, and private investors to build his vision of what a
-    mining operation should be: a frontier settlement, run by people operating equipment
-    rather than drones doing all the work on man's behalf. If it were any other world
-    or man, investors would have never accepted the idea. But the abundance of subterranean
-    treasure on TLXX-01 made the effort worthwhile\u2014and Braggs Seyllin was able
-    to deliver not just on his promise to investors, but to the millions of prospectors
-    eventually lured by the opportunity to work and prosper.\n\nLeave it to Federation
-    terraforming expertise to create a living, breathing world beneath the surface
-    of an inhospitable planet. In the mined excavation sites where thick veins of
-    precious ore once lay, intersecting caverns big enough to house capital ships
-    were now illuminated in gentle cycles with artificial sunlight; water ran in streams
-    and falls throughout a cityscape that was equal parts lush vegetation and stylish
-    living quarters; atmosphere scrubbers worked with the ecosystem to recycle air
-    and push a comfortable breeze throughout the miles of interconnecting city blocks
-    and work centers.\n\nThe ambitious subterranean project did as much for the science
-    of transforming worlds as it proved that the mining industry was core to the identity
-    of the nation. In all, four main cities would be constructed: Loadcore, Metal
-    City, Southern Cross, and Valimor. Braggs Seyllin died before the last of these
-    could be completed, but his legacy was already established. At the time of his
-    passing twenty years ago, 8 million people lived on TLXX-01. By the time the planet
-    was rechristened Seyllin I, more than a half billion called those underground
-    caverns home. These were thriving, pulsing cityscapes interconnected by magrail
-    systems that spanned around the entire planet. Peak production for most of its
-    natural resources was fast approaching, but the economic and cultural significance
-    of Seyllin to the Gallente Federation would last long after the last chunk of
-    ore was recovered.\n\nUntil now, this had been the expectation.\n\nAccess points
-    for each of the main cities littered the surface of Seyllin I. The most common
-    of these were spaceports, which allowed dropships to transfer passengers and cargo
-    within the safety of shielded containment fields. The planet hosted several space
-    elevators for heavy freight, but these could only be operated at night due to
-    the extreme daytime temperatures. Just beneath these access points was a network
-    of operational support structures, all filled with people like the researchers
-    in the Cassandra monitoring site, elevator freight cargo masters, dropship mechanics,
-    and thousands of others.\n\nOn the daytime side of Seyllin I, these individuals
-    witnessed a bright flash, then had perhaps a fraction of a second to notice an
-    alarming rise in temperature and hear the sizzling sound of air molecules blown
-    apart by subatomic particles. Those inside surface observatories, such as Dr.
-    Garcia and her colleagues, caught fire immediately and lived just long enough
-    to realize it before their hearts stopped beating.\n\nThose at deeper depths were
-    more shielded and thus wouldn't immediately feel their bodies being penetrated
-    and ruined by the invisible onslaught. Instead, a curtain of dread would fall
-    over them as the electronic systems supporting their lives\u2014including those
-    which provided access to the surface both here and on the night side of the planet\u2014suddenly
-    ceased.\n\nTheirs would be the irony of being trapped in the dark, when somewhere
-    above them the hottest sun in the cosmos was hurling radioactive fire upon them.\n\n***\n\n\"This
+    three minutes ago.\"\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\nIt
+    seemed like an unlikely place to build a thriving metropolis.\n\nDevoid of any
+    atmosphere, Seyllin I was a hellish world whose daytime surface temperature soared
+    high enough to turn lead into molten slag. Though deep within Federation space,
+    the world and system may as well been an unremarkable fringe territory hardly
+    worth the fuel needed to reach it. Sixty years ago, an independent surveyor named
+    Braggs Seyllin left an executive position with Material Acquisition to prospect
+    on his own. Smitten with the endless optimism of a true pioneer, he vowed to build
+    a mining empire that would rival the corporation which launched his career.\n\nAfter
+    numerous years and hardships which depleted the entirety of his fortune, Braggs
+    Seyllin finally struck gold\u2014literally\u2014with TLXX-01, the Federation catalog
+    name of the system which would later bear his name. Deep beneath the surface of
+    that cratered wasteland was a treasure trove of natural resources, including an
+    abundance of heavier metals coveted in virtually every manufacturing sector of
+    the cluster.\n\nUndaunted by the steep logistical challenge of harvesting this
+    bounty, Seyllin raised the capital he needed from governments, corporations, and
+    private investors to build his vision of what a mining operation should be: a
+    frontier settlement, run by people operating equipment rather than drones doing
+    all the work on man's behalf. If it were any other world or man, investors would
+    have never accepted the idea. But the abundance of subterranean treasure on TLXX-01
+    made the effort worthwhile\u2014and Braggs Seyllin was able to deliver not just
+    on his promise to investors, but to the millions of prospectors eventually lured
+    by the opportunity to work and prosper.\n\nLeave it to Federation terraforming
+    expertise to create a living, breathing world beneath the surface of an inhospitable
+    planet. In the mined excavation sites where thick veins of precious ore once lay,
+    intersecting caverns big enough to house capital ships were now illuminated in
+    gentle cycles with artificial sunlight; water ran in streams and falls throughout
+    a cityscape that was equal parts lush vegetation and stylish living quarters;
+    atmosphere scrubbers worked with the ecosystem to recycle air and push a comfortable
+    breeze throughout the miles of interconnecting city blocks and work centers.\n\nThe
+    ambitious subterranean project did as much for the science of transforming worlds
+    as it proved that the mining industry was core to the identity of the nation.
+    In all, four main cities would be constructed: Loadcore, Metal City, Southern
+    Cross, and Valimor. Braggs Seyllin died before the last of these could be completed,
+    but his legacy was already established. At the time of his passing twenty years
+    ago, 8 million people lived on TLXX-01. By the time the planet was rechristened
+    Seyllin I, more than a half billion called those underground caverns home. These
+    were thriving, pulsing cityscapes interconnected by magrail systems that spanned
+    around the entire planet. Peak production for most of its natural resources was
+    fast approaching, but the economic and cultural significance of Seyllin to the
+    Gallente Federation would last long after the last chunk of ore was recovered.\n\nUntil
+    now, this had been the expectation.\n\nAccess points for each of the main cities
+    littered the surface of Seyllin I. The most common of these were spaceports, which
+    allowed dropships to transfer passengers and cargo within the safety of shielded
+    containment fields. The planet hosted several space elevators for heavy freight,
+    but these could only be operated at night due to the extreme daytime temperatures.
+    Just beneath these access points was a network of operational support structures,
+    all filled with people like the researchers in the Cassandra monitoring site,
+    elevator freight cargo masters, dropship mechanics, and thousands of others.\n\nOn
+    the daytime side of Seyllin I, these individuals witnessed a bright flash, then
+    had perhaps a fraction of a second to notice an alarming rise in temperature and
+    hear the sizzling sound of air molecules blown apart by subatomic particles. Those
+    inside surface observatories, such as Dr. Garcia and her colleagues, caught fire
+    immediately and lived just long enough to realize it before their hearts stopped
+    beating.\n\nThose at deeper depths were more shielded and thus wouldn't immediately
+    feel their bodies being penetrated and ruined by the invisible onslaught. Instead,
+    a curtain of dread would fall over them as the electronic systems supporting their
+    lives\u2014including those which provided access to the surface both here and
+    on the night side of the planet\u2014suddenly ceased.\n\nTheirs would be the irony
+    of being trapped in the dark, when somewhere above them the hottest sun in the
+    cosmos was hurling radioactive fire upon them.\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"This
     is no ordinary flare,\" the CONCORD representative stated. \"That much material
     bring thrown off is characteristic of a supernova, only there isn't enough of
     it to suggest that a total collapse is imminent. But the ejected plasma is following
     this new magnetic field at incredible sublight speeds.\"\n\n\"So what you're saying
-    is that we're going to lose Seyllin\u2026completely.\"\n\n\"As it exists today?
+    is that we're going to lose Seyllin\u2026*completely*.\"\n\n\"As it exists today?
     Yes.\"\n\nThe President clasped a hand over his chin, rubbing absently.\n\n\"How
-    much time before\u2026\"\n\n\"Less than five hours. If everything else remains
+    much time before\u2026\"\n\n\"Less than five hours. *If* everything else remains
     the same.\"\n\nSouro Foiritan stared ahead towards someplace far from where he
     was. His eyes were glassy; there may have been just half a drop quivering atop
     a tear duct. A few moments passed before he spoke again.\n\nHis voice, though,
@@ -151,18 +160,18 @@ content:
     to know the end of the world was coming?\"\n\nThe image flickered, and shadows
     flashed each of the men standing in the room. The CONCORD official never changed
     his expression.\n\n\"Mr. President, if I was on Seyllin right now, I would think
-    it had ended already.\"\n\n***\n\nThe dropship pilot pushed the throttle all the
-    forward. The cockpit began to rattle as the instrument panel erupted with red
-    warnings.\n\n\"We're too heavy!\" the loadmaster shouted through the intercom.
-    \"We gotta shed weight\u2014\"\n\n\"Strap yourself in and shut up,\" the pilot
-    snapped, willing his craft upwards. He could feel the seat beneath him tremble
-    as the craft's twin engines spewed white-hot plasma against the spaceport landing
-    pad. \"She's got more than this, I know it...\"\n\nThree hundred survivors were
-    crammed into the back, nearly half a ton heavier than the maximum weight that
-    the Federation Pegasus-class dropship could handle for a planet with Seyllin's
-    mass. The military variant was equipped with enough thrust to put less than half
-    as many troops in full combat gear into a hot zone with 1.0 G conditions. Now
-    it was carrying a hold full of screaming victims from the pulse event at Seyllin,
+    it had ended already.\"\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\nThe
+    dropship pilot pushed the throttle all the forward. The cockpit began to rattle
+    as the instrument panel erupted with red warnings.\n\n\"We're too heavy!\" the
+    loadmaster shouted through the intercom. \"We gotta shed weight\u2014\"\n\n\"*Strap
+    yourself in and shut up*,\" the pilot snapped, willing his craft upwards. He could
+    feel the seat beneath him tremble as the craft's twin engines spewed white-hot
+    plasma against the spaceport landing pad. \"She's got more than this, I know it...\"\n\nThree
+    hundred survivors were crammed into the back, nearly half a ton heavier than the
+    maximum weight that the Federation Pegasus-class dropship could handle for a planet
+    with Seyllin's mass. The military variant was equipped with enough thrust to put
+    less than half as many troops in full combat gear into a hot zone with 1.0 G conditions.
+    Now it was carrying a hold full of screaming victims from the pulse event at Seyllin,
     plus all the life support systems needed to keep them alive. Most of the victims
     had horrific burns, some with their clothing fused directly into the skin. This
     batch had been transported by one of the few magrails still functioning on the
@@ -187,14 +196,15 @@ content:
     staying clear of the discarded bubble turrets. Even though it was night, the surface
     of the sprawling spaceport was shimmering in heat. From the IR vision in his helmet
     visor, it looked like the surface of hell.\n\nThe Pegasus accelerated upwards.
-    And as soon its hold was cleared, it was going to return for more survivors.\n\n***\n\n\"Every
-    affected system had a Type-O star,\" the scientist stated. \"And it appears that
-    every single one of them had an identical event.\"\n\nPresident Foiritan was beside
-    himself. \"\u2018Identical'? Where else is the loss of life so high\u2014\"\n\n\"Seyllin
+    And as soon its hold was cleared, it was going to return for more survivors.\n\n<div
+    align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"Every affected system
+    had a Type-O star,\" the scientist stated. \"And it appears that every single
+    one of them had an identical event.\"\n\nPresident Foiritan was beside himself.
+    \"*\u2018Identical'*? Where else is the loss of life so high\u2014\"\n\n\"Seyllin
     was the only world with a notable population,\" the advisor muttered. \"Blue-star
-    systems tend to be devoid of surface life, it's just too\u2014\"\n\n\"Get to the
-    point!\"\n\nThe scientist blushed. \"The point is\u2026it's not over yet. This
-    main sequence anomaly was just the beginning, but it\u2026.was set into motion
+    systems tend to be devoid of surface life, it's just too\u2014\"\n\n\"*Get to
+    the point!*\"\n\nThe scientist blushed. \"The point is\u2026it's not over yet.
+    This main sequence anomaly was just the beginning, but it\u2026.was set into motion
     by something else, something connected to those subspace bursts. It triggered
     a chain reaction that we're struggling to understand\u2026it's as if the fabric
     of time and space itself has been wrenched from beneath us.\"\n\nThe scientist's
@@ -211,124 +221,138 @@ content:
     instances of point-defect turbulence in systems unaffected by these main sequence
     anomalies.\"\n\n\"Wait,\" Foiritan interrupted. \"'What's a point-defect\u2014\"\n\n\"Wormholes,\"
     the scientist said. \"The first naturally occurring wormholes since the collapse
-    of the EVE gate.\"\n\n***\n\n\"No matter how hard I try,\" Empress Jamyl said
-    softly, her clothes drenched with perspiration. \"Death follows me everywhere
-    I go.\"\n\nCaretaker drones gently helped her sit upright in the bed of her chambers.
-    Servants no longer looked after her when she confronted her demons. Lord Victor
-    ended the practice not for concern of their safety, but to keep her private affairs
-    as far from the public eye as possible.\n\n\"We won't know the full extent of
-    the damage for some time,\" he said, taking a flask of water from the drone and
-    handing it to her. \"You're sure the Sansha weren't a target of your adversary?\"\n\n\"No
-    more than Seyllin, or the Great Wildlands, or anywhere else this catastrophe has
-    stricken,\" she said, accepting the water and downing it. \"Yet even this is nothing
-    compared with what is to come.\"\n\nVictor raised an eyebrow. The Sansha were
-    always a prime surveillance and acquisition interest for Imperial intelligence.
-    Their advances in cybernetic technology provided the live realization for the
-    kinds of medical experiments that Amarrian scientists could only dream of. The
-    Sansha have long known that they were being watched, and that errant ships had
-    been captured and dissected by Victor's own men from time to time. He wondered
-    if the Empire would be blamed for the destruction of one of their worlds.\n\n\"They
-    won't,\" Jamyl answered, hearing Victor's thoughts as if they were her own. \"They
-    don't mourn their dead the way we do. And besides\u2026\"\n\nA drone extended
-    an arm to help her stand. It was a strange sight, seeing a woman this physically
-    strong rely on a machine just to stand on her feet. \"\u2026they'll be looking
-    in the same direction as us for answers: far, far away from New Eden.\"\n\nLord
-    Victor watched as she moved away from the drone on her own power, one burdened
-    step at a time.\n\n\"I'm getting closer to understanding this,\" she said. \"I
-    wish Marcus could see what the empyreans are about to discover. His work would
-    be vindicated.\"\n\n\"My lady, I don't understand\u2026\"\n\n\"You don't need
-    to,\" she said, waving him away. \"Just thank your God that Amarr was spared from
-    this.\"\n\n***\n\n\"You must do exactly as I say,\" the SCOPE editor breathed,
-    looking hurriedly over his shoulder. \"Take this and publish it as-is. Don't wait
-    for confirmation from the others, just do it.\"\n\nThe press intern sounded unsure
-    of himself. \"Umm, sure. Where, though\u2014\"\n\n\"Listen to me,\" the editor
-    snapped, loud enough to draw the attention of several fans as he pushed his way
-    through the crowd. The station promenade was packed for the regional skyball playoffs,
-    but the mood was more subdued than usual as word of the crisis unfolding in Seyllin
-    spread.\n\nThe editor was under no delusions that he could escape his pursuers
-    by coming here. He hoped only to slow them down, and that this intern could do
-    what he asked before they got to him as well.\n\n\"Push this report directly into
-    the international feeds. Bump everything else off the queue, this takes flash
-    priority. Do you understand?\"\n\n\"Flash priority? Sheesh, I don't have the clout
-    to do that\u2014\"\n\nAn unruly fan bumped shoulders with the editor, spinning
-    him halfway around. His heart stopped beating for a moment.\n\n\"You've been authenticated
-    to send flash\u2026\"\n\nHe could see them: three men, in black coats. The crowd
-    was separating for them.\n\n\"Millions of people are counting on this. Send that
-    broadcast before it's too late for them\u2026.\"\n\n\"Okay, umm, I'm in the system,
-    and the flash with your ID is queued. Confirm it?\"\n\n\"Ye\u2014!\"\n\nThankfully,
+    of the EVE gate.\"\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"No
+    matter how hard I try,\" Empress Jamyl said softly, her clothes drenched with
+    perspiration. \"Death follows me everywhere I go.\"\n\nCaretaker drones gently
+    helped her sit upright in the bed of her chambers. Servants no longer looked after
+    her when she confronted her demons. Lord Victor ended the practice not for concern
+    of their safety, but to keep her private affairs as far from the public eye as
+    possible.\n\n\"We won't know the full extent of the damage for some time,\" he
+    said, taking a flask of water from the drone and handing it to her. \"You're sure
+    the Sansha weren't a target of your adversary?\"\n\n\"No more than Seyllin, or
+    the Great Wildlands, or anywhere else this catastrophe has stricken,\" she said,
+    accepting the water and downing it. \"Yet even this is nothing compared with what
+    is to come.\"\n\nVictor raised an eyebrow. The Sansha were always a prime surveillance
+    and acquisition interest for Imperial intelligence. Their advances in cybernetic
+    technology provided the live realization for the kinds of medical experiments
+    that Amarrian scientists could only dream of. The Sansha have long known that
+    they were being watched, and that errant ships had been captured and dissected
+    by Victor's own men from time to time. He wondered if the Empire would be blamed
+    for the destruction of one of their worlds.\n\n\"They won't,\" Jamyl answered,
+    hearing Victor's thoughts as if they were her own. \"They don't mourn their dead
+    the way we do. And besides\u2026\"\n\nA drone extended an arm to help her stand.
+    It was a strange sight, seeing a woman this physically strong rely on a machine
+    just to stand on her feet. \"\u2026they'll be looking in the same direction as
+    us for answers: far, far away from New Eden.\"\n\nLord Victor watched as she moved
+    away from the drone on her own power, one burdened step at a time.\n\n\"I'm getting
+    closer to understanding this,\" she said. \"I wish Marcus could see what the empyreans
+    are about to discover. His work would be vindicated.\"\n\n\"My lady, I don't understand\u2026\"\n\n\"You
+    don't need to,\" she said, waving him away. \"Just thank your God that Amarr was
+    spared from this.\"\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"You
+    must do *exactly* as I say,\" the SCOPE editor breathed, looking hurriedly over
+    his shoulder. \"Take this and publish it as-is. Don't wait for confirmation from
+    the others, just do it.\"\n\nThe press intern sounded unsure of himself. \"Umm,
+    sure. Where, though\u2014\"\n\n\"*Listen to me*,\" the editor snapped, loud enough
+    to draw the attention of several fans as he pushed his way through the crowd.
+    The station promenade was packed for the regional skyball playoffs, but the mood
+    was more subdued than usual as word of the crisis unfolding in Seyllin spread.\n\nThe
+    editor was under no delusions that he could escape his pursuers by coming here.
+    He hoped only to slow them down, and that this intern could do what he asked before
+    they got to him as well.\n\n\"Push this report directly into the international
+    feeds. Bump everything else off the queue, this takes flash priority. Do you understand?\"\n\n\"Flash
+    priority? Sheesh, I don't have the clout to do that\u2014\"\n\nAn unruly fan bumped
+    shoulders with the editor, spinning him halfway around. His heart stopped beating
+    for a moment.\n\n\"You've been authenticated to send flash\u2026\"\n\nHe could
+    see them: three men, in black coats. The crowd was separating for them.\n\n\"Millions
+    of people are counting on this. Send that broadcast before it's too late for them\u2026.\"\n\n\"Okay,
+    umm, I'm in the system, and the flash with your ID is queued. Confirm it?\"\n\n\"*Ye\u2014!*\"\n\nThankfully,
     the explosion of pain in his lower back was short lived, as the motor functions
     in everything from his neck down simply froze. He saw himself collapse awkwardly\u2014the
     impact probably did physical damage, but he felt nothing. The attack had come
-    from behind; probably a z-stick, he thought, watching the Black Eagles reach out
-    to confiscate his earpiece and datapad.\n\nHe could tell they weren't being gentle
-    with his incapacitated carcass as they dragged him back through the promenade.
+    from behind; *probably a z-stick*, he thought, watching the Black Eagles reach
+    out to confiscate his earpiece and datapad.\n\nHe could tell they weren't being
+    gentle with his incapacitated carcass as they dragged him back through the promenade.
     They would fabricate a charge against him, but couldn't hold him for long. Blaque
     and his cronies would face a barrage of protests and legal threats for imprisoning
     SCOPE reporters, and they were fully aware of it.\n\nWhich means the ends must
-    justify the means.\n\nThere is no question that Seyllin is doomed. And people
-    have a right to know that.\n\nThe editor hoped the message was delivered to the
-    world like he asked, and wondered why doing the right thing was always so difficult.\n\n***\n\n\"We
-    don't know where they lead,\" the scientist continued. \"Or, what we'll find once
-    we're there.\"\n\nFor the first time since the crisis began, President Foiritan
-    began to face the cruel possibility that what was unfolding could somehow be larger
-    than what had happened at Seyllin.\n\n\"Warships can enter our sovereign space
-    from them?\"\n\n\"Yes. And though we can't predict where they'll appear, we can
-    say with reasonable confidence that their stability will be affected by the mass
-    that passes through them.\"\n\n\"Capital ships?\"\n\n\"Possibly. But not an entire
-    fleet.\"\n\n\"Not an entire fleet,\" the president repeated, pacing back and forth.
-    \"But, say, a pack of cloaked Marauders, using a direct portal between Luminaire
-    and New Caldari\u2014\"\n\n\"Or between Luminaire and a system that's not even
-    in this cluster.\"\n\nPresident Foiritan straightened his posture. His face was
-    gaunt, but he kept his demeanor rigid.\n\n\"Admiral Ranchel, how agile is your
-    fleet deployment along the Border Zone?\"\n\nThe voice, carried by speakers in
-    the office walls, was loud enough to be heard in the hallway outside. \"The strength
-    of our defenses won't be compromised so long as the frequency of wormhole appearances
-    is consistent. As far as location goes, if we can scan it, we can kill it. But
-    we would never pursue a retreating force, not without assurances of where our
-    assets will wind up.\"\n\n\"Very well. How many have we rescued from Seyllin?\"\n\n\"Just
-    over half a million.\"\n\nEveryone in the room saw the color leave Souro's face.\n\n\"The
-    limited number of landing sites makes it difficult,\" Admiral Ranchel added, his
-    voice subdued. \"Given the amount of time remaining, we might be able to double
-    that figure. But not much more than that.\"\n\nNo one said a word. The president
-    stood, surrounded by his closest advisors, completely helpless to do anything
-    more.\n\n\"Keep doing the best you can,\" he said. \"Have you\u2014\"\n\nThe Chief
-    of the Federation Intelligence Office spoke abruptly.\n\n\"Mr. President,\" she
-    gasped. \"Mentas was too late.\"\n\n***\n\n\"Wave off and turn back! Wave off
-    or you're a dead man!\"\n\nFor the third time, the Pegasus was hovering just meters
-    over the landing pad. Its pilot could see people rushing the gantries, trying
-    to get into the spaceport's boarding area.\n\n\"We're out of time!\" his carrier
-    dispatch screamed.\n\nHis mind wandered as the craft hung in the balance between
-    life and death. Someone in that throng of people had surely given up his place
-    to let a wounded man onto the last dropship that would ever touch down on Seyllin.
-    Someone's act of kindness in the midst of a terrible nightmare would be his noble
-    end.\n\nThat person was right there, so close to where he was.\n\n\"For God's
-    sake, you're going to get left behind!\"\n\nWithout his conscious approval, his
-    hand pulled back on the stick. The dropship was responsive, eager to fly to the
-    carrier above, and then away from the approaching wall of fire that would bring
-    about the end of the world. The hold was empty, save for a single loadmaster standing
-    among rows of empty seats covered with the blood and gore of those whom fortune
-    or kindness had spared. As though fleeing for its own life, the Pegasus turned
-    its back on the damned souls of Seyllin and hurled away, its lone pilot's eyes
-    moist with tears.\n\n***\n\nThe planet of Seyllin I perished, as did dozens of
-    other worlds\u2014some in New Eden, and some that no person in recorded history
-    would ever know about. The intentions of Antar and Kotan were irrelevant now,
-    as the universe of their origin had changed so fundamentally that it would probably
-    be unrecognizable to them. Neither man could have imagined that the consequences
-    of their actions would be so widespread, or that evil could triumph so decidedly
-    over the powers of good.\n\nThe civilizations of New Eden would mourn for those
-    who were lost, and then search in earnest for the reason why they died. But they
-    would not look amongst the burnt cinders of shattered worlds.\n\nThey would search
-    for answers by passing through tears in the fabric of space, and venturing towards
-    the unknown.\n"
+    justify the means.\n\n*There is no question that Seyllin is doomed. And people
+    have a right to know that.*\n\nThe editor hoped the message was delivered to the
+    world like he asked, and wondered why doing the right thing was always so difficult.\n\n<div
+    align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"We don't know where
+    they lead,\" the scientist continued. \"Or, what we'll find once we're there.\"\n\nFor
+    the first time since the crisis began, President Foiritan began to face the cruel
+    possibility that what was unfolding could somehow be larger than what had happened
+    at Seyllin.\n\n\"Warships can enter our sovereign space from them?\"\n\n\"Yes.
+    And though we can't predict where they'll appear, we can say with reasonable confidence
+    that their stability will be affected by the mass that passes through them.\"\n\n\"Capital
+    ships?\"\n\n\"Possibly. But not an entire fleet.\"\n\n\"Not an entire fleet,\"
+    the president repeated, pacing back and forth. \"But, say, a pack of cloaked Marauders,
+    using a direct portal between Luminaire and New Caldari\u2014\"\n\n\"Or between
+    Luminaire and a system that's not even in this cluster.\"\n\nPresident Foiritan
+    straightened his posture. His face was gaunt, but he kept his demeanor rigid.\n\n\"Admiral
+    Ranchel, how agile is your fleet deployment along the Border Zone?\"\n\nThe voice,
+    carried by speakers in the office walls, was loud enough to be heard in the hallway
+    outside. \"The strength of our defenses won't be compromised so long as the frequency
+    of wormhole appearances is consistent. As far as location goes, if we can scan
+    it, we can kill it. But we would never pursue a retreating force, not without
+    assurances of where our assets will wind up.\"\n\n\"Very well. How many have we
+    rescued from Seyllin?\"\n\n\"Just over half a million.\"\n\nEveryone in the room
+    saw the color leave Souro's face.\n\n\"The limited number of landing sites makes
+    it difficult,\" Admiral Ranchel added, his voice subdued. \"Given the amount of
+    time remaining, we might be able to double that figure. But not much more than
+    that.\"\n\nNo one said a word. The president stood, surrounded by his closest
+    advisors, completely helpless to do anything more.\n\n\"Keep doing the best you
+    can,\" he said. \"Have you\u2014\"\n\nThe Chief of the Federation Intelligence
+    Office spoke abruptly.\n\n\"Mr. President,\" she gasped. \"Mentas was too late.\"\n\n<div
+    align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n\"Wave off and turn
+    back! Wave off or you're a dead man!\"\n\nFor the third time, the Pegasus was
+    hovering just meters over the landing pad. Its pilot could see people rushing
+    the gantries, trying to get into the spaceport's boarding area.\n\n\"We're out
+    of time!\" his carrier dispatch screamed.\n\nHis mind wandered as the craft hung
+    in the balance between life and death. Someone in that throng of people had surely
+    given up his place to let a wounded man onto the last dropship that would ever
+    touch down on Seyllin. Someone's act of kindness in the midst of a terrible nightmare
+    would be his noble end.\n\nThat person was right there, so close to where he was.\n\n\"*For
+    God's sake, you're going to get left behind!*\"\n\nWithout his conscious approval,
+    his hand pulled back on the stick. The dropship was responsive, eager to fly to
+    the carrier above, and then away from the approaching wall of fire that would
+    bring about the end of the world. The hold was empty, save for a single loadmaster
+    standing among rows of empty seats covered with the blood and gore of those whom
+    fortune or kindness had spared. As though fleeing for its own life, the Pegasus
+    turned its back on the damned souls of Seyllin and hurled away, its lone pilot's
+    eyes moist with tears.\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\nThe
+    planet of Seyllin I perished, as did dozens of other worlds\u2014some in New Eden,
+    and some that no person in recorded history would ever know about. The intentions
+    of Antar and Kotan were irrelevant now, as the universe of their origin had changed
+    so fundamentally that it would probably be unrecognizable to them. Neither man
+    could have imagined that the consequences of their actions would be so widespread,
+    or that evil could triumph so decidedly over the powers of good.\n\nThe civilizations
+    of New Eden would mourn for those who were lost, and then search in earnest for
+    the reason why they died. But they would not look amongst the burnt cinders of
+    shattered worlds.\n\nThey would search for answers by passing through tears in
+    the fabric of space, and venturing towards the unknown.\n\n<div style=\"text-align:center;line-height:172.5%;font-style:italic;margin:
+    3.75em 0px -2.25em;\"><i style=\"color:#858585;font-family:'Titillium Web'\">-End-</i></div>"
   id: 5xOEjs5VWLCMJpxcBguAeR
   layout: default
-description: As he watched his crew slowly bring the end of the world to light, Antar
-  found it increasingly difficult to see this as anything but the end of himself.
-  A long time ago he had realized that the full extent of a life demanded the experience
-  of both pleasure and pain; piety and indulgence. He had explored the darker side
-  with fervor and reveled in what he found. With the Blood Raiders he had found not
-  only the other, missing side of his own self, but fellow souls who shared that same
-  drive. Religion and [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"3En0jhrnzM0GYQgOO8I0J4\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">We Humans</i>\n</a></span></div>\n\n####
+    See Also:\n- [The Vitrauze Project (Chronicle)](4xG7ezXyrwqrE87vI09H2j)\n- [Anoikis
+    (Chronicle)](6p83qTxIPP0vXfNM1dIZMb)"
+  id: 4nqPQeDdCFCLaey8QXKbim
+  layout: default
+description: Final part of the End of the World chronicle series. As he watched his
+  crew slowly bring the end of the world to light, Antar found it increasingly difficult
+  to see this as anything but the end of himself. A long time ago he had realized
+  that the full extent of a life demanded the experience of both pleasure and pain;
+  piety and indulgence. He had explored the darker side with fervor and reveled in
+  what he found. With the Blood Raiders he had found not only the other, missing side
+  of his own self, but [...]
 heroImage: null
 id: Pia0KJL08KBbLeNY2IJyO
 image: null
@@ -339,6 +363,6 @@ parent: null
 publicationDate: '2009-03-11T00:00:00'
 slug: world-on-fire
 sortOrder: 0
-title: World on Fire
+title: 'End of the World: World on Fire'
 topics: []
-updatedAt: '2021-11-05T14:02:05.553000+00:00'
+updatedAt: '2024-12-03T12:49:13.387000+00:00'

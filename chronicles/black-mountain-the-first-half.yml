@@ -1,8 +1,19 @@
 author: null
 category: Chronicles
 content:
-- body: 'Nale was sitting on his bed in the ship quarters, fully dressed, looking
-    at the thing in his hand.
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part four
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Nale was sitting on his bed in the ship quarters, fully dressed, looking at the
+    thing in his hand.
 
 
     It was a metal device the size of his fist, curved and with a little opaque sphere
@@ -55,7 +66,7 @@ content:
     and would probably lobotomize the poor bastards in the process if set on too high
     a level. But for those who''d managed to get through the Sisters'' regimen, these
     feelings were so faint to begin with, so little a part of their personality, that
-    their removal wouldn''t cause any permanent damage. The machine might have some
+    their removal wouldn''t cause any permanent damage. The machine might have *some*
     effect, the Sisters administrators had grudgingly admitted, but it shouldn''t
     be anything to worry about.
 
@@ -86,7 +97,7 @@ content:
     "With the Angels," Shiqra said and left the room.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     One journey later, they were at an Angel station, and the noise was deafening.
@@ -396,7 +407,7 @@ content:
 
 
     Everyone around saw that it was not the Book itself. There was a hushed silence,
-    followed by a barely audible "... shit!" somewhere in the dark, and the sounds
+    followed by a barely audible "... *shit!*" somewhere in the dark, and the sounds
     of gunfire and running. The Sisters remained inert and completely quiet, Nale
     included, until he felt the cold steel of a pistol laid against the back of his
     neck.
@@ -410,13 +421,30 @@ content:
     It belonged to an Angel captain called Hona.'
   id: 2Ou7ADQ2vwb1p41WKg88TJ
   layout: default
-description: Nale was sitting on his bed in the ship quarters, fully dressed, looking
-  at the thing in his hand. It was a metal device the size of his fist, curved and
-  with a little opaque sphere set in the middle. The sphere had a red sheen and showed
-  a faint triangular halo. As he rolled it in one direction, it turned yellow, then
-  orange, blue, indigo and purple. He rolled it back to red and found that while it
-  couldn't roll far in the other direction, forcing the sphere a little would turn
-  the red to green; [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"2T4JKXUZLCtk4iisoRqOss\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">The Room</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"7KuR4Db6yJrA7LfA7eA6rM\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Of
+    a Sentence</i>\n</a></span></div>"
+  id: 6Msl10srjcOS2FiWCYJ2BN
+  layout: default
+description: Part four of the Black Mountain chronicle series. Nale was sitting on
+  his bed in the ship quarters, fully dressed, looking at the thing in his hand. It
+  was a metal device the size of his fist, curved and with a little opaque sphere
+  set in the middle. The sphere had a red sheen and showed a faint triangular halo.
+  As he rolled it in one direction, it turned yellow, then orange, blue, indigo and
+  purple. He rolled it back to red and found that while it couldn't roll far in the
+  other direction, forcing the [...]
 heroImage: null
 id: 7yrajwk9bgKqGFgVp2y8SB
 image: null
@@ -429,4 +457,4 @@ slug: black-mountain-the-first-half
 sortOrder: 0
 title: 'Black Mountain: The First Half'
 topics: []
-updatedAt: '2021-11-10T11:55:22.465000+00:00'
+updatedAt: '2024-12-03T12:46:15.282000+00:00'

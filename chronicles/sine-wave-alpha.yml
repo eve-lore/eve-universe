@@ -1,15 +1,17 @@
 author: null
 category: Chronicles
 content:
-- body: "![Sine Wave: Alpha](http://web.ccpgamescdn.com/newssystem/media/71880/1/asc_650_pd_ver.png)\n\n---\n\n*Amarr
-    System, Amarr Prime,*  \n*Southern Ves-Udor, Satach City,*  \n*YC118.09.29*  \n\nIt
-    was an evening made murky by a strong wind from the north bringing dust and fine
-    sand from the Great Interior Desert to swirl through the streets of Satach City.
-    Relief from the gathering gloom and scudding dust was provided by the city's fiercely
-    orange street lights, reinforced lately by an army of lamps both devotional and
-    festive. The city lay a hundred kilometers and more from the desert's edge and
-    the ancient mountain fastness of Satach's Spite; but it was the natural destination
-    for the waves of pilgrims, commoner and noble, come to see the rite of Shathol'Syn.\n\nSatach
+- body: "<p><img src=\"http://web.ccpgamescdn.com/newssystem/media/71880/1/asc_650_pd_ver.png\"
+    alt=\"Sine Wave: Alpha\"\nstyle=\"max-width:97.5%;border:1px solid #4d4d4dba;box-shadow:2px
+    2px 6px 2px #0c0c0ca3;margin-bottom:2em\"></p>\n\n*Amarr System, Amarr Prime,*
+    \ \n*Southern Ves-Udor, Satach City,*  \n*YC118.09.29*  \n\nIt was an evening
+    made murky by a strong wind from the north bringing dust and fine sand from the
+    Great Interior Desert to swirl through the streets of Satach City. Relief from
+    the gathering gloom and scudding dust was provided by the city's fiercely orange
+    street lights, reinforced lately by an army of lamps both devotional and festive.
+    The city lay a hundred kilometers and more from the desert's edge and the ancient
+    mountain fastness of Satach's Spite; but it was the natural destination for the
+    waves of pilgrims, commoner and noble, come to see the rite of Shathol'Syn.\n\nSatach
     City was not a large metropolis. The town had grown up around the old river and
     road way-station serving as a convenient layover for those who wished to visit
     the sanctum and shrine that was the old fortress to the north. In times long past,
@@ -228,131 +230,133 @@ content:
     recording devices hidden in all the snugs. He'd be able to review their conversation
     later. His commpad chimed. The search had returned a hit. The man Saatta Mochan
     was talking to was a diplomatic envoy of the Thukker Tribe's Vo-Lakat Caravan
-    and his name was Tamasek Sjakhuni.\n\n\\***\n\n++Some Personal Recollections++\n\n*Anoikis,
-    Harmonic Node Q3:X-7:Th:Var1.71,*  \n*SOE Sanctuary Research Facility,*  \n*YC118.06.27*
-    \ \n\n\"Sjakhuni!\" The shout from Sister Latimas as she strode through the shimmer
-    field interrupted the quiet routine of the laboratory and made my lab assistants
-    look up in alarm. I continued what I was doing, entering the last two data references
-    into the analysis program before setting it running. When Latimas walked up to
-    me and said my name again, more quietly, I looked up and smiled.\n\n\"Sister Latimas,
-    to what do I owe the pleasure?\"\n\nLatimas looked around and gestured to the
-    watching assistants, \"Give us some privacy, please.\" Silently, the assistants
-    filed out through the shimmer field. Latimas walked back over to the entry to
-    see that they'd gone.\n\nI laughed. \"They're hardly going to linger in the airlock,
-    Latimas. For one thing it's quite cold in there. For another they'd have a hard
-    time hearing us through the field.\"\n\nLatimas turned back to me and grimaced.
-    \"I'll cut to it, Sjakhuni. The Upwell Consortium has just agreed to a technology
-    sharing deal with CONCORD regarding the data they recovered from the Serpentis
-    Corporation.\"\n\n\"I'm aware of the development. It was inevitable given Upwell\u2019s
-    desire to appear above board. I don't see that it changes anything. CONCORD have
-    always been serious about enforcing technology sharing. When they can.\"\n\n\"We
-    can't afford to ignore that when we implement the delivery phase of the plan.\"\n\n\"The
-    contingencies have been put in place. Our agents have made contact with assets
-    in all four empires. Getting Project Ascension into the field before CONCORD know
-    about it won't be a problem.\"\n\n\"That's just it. There might be a problem.
-    Our intelligence cell has reported that the Serpentis data trove included a lot
-    of Angel Cartel data. We're not sure what's mixed up in there but...\"\n\n\"But
-    it might just include pointers to our Angel connections. Unfortunate.\" I frowned
-    in thought. The Angel Cartel weren't really that important to the undertaking
-    but they had access to a lot of resources. More to the point they had access to
-    a lot of recovered technology that they didn't understand that well. I'd been
-    able to help them with a certain project and in return they'd provided a few items
-    that accelerated the timetable.\n\n\"How bad do you think the exposure could be?
-    Would your contacts have shared details with the Serpentis?\" Latimas was worried
-    by all this, an administrator and scientist at sea when it came to such matters.
-    Not the for the first time, I wondered why the Sanctuary had seen fit to place
-    her in charge of Project Ascension.\n\n\"They wouldn't share the smallest detail
-    of their end of it with the Serpentis and they'd be discreet enough about the
-    shipments to us. Still, the shipments went through a complicated smuggling chain.
-    I wouldn't be surprised if Serpentis couriers were used somewhere along the line.\"\n\n\"You're
-    saying it's possible they could connect the equipment shipments to us. That this
-    could increase scrutiny on the Sanctuary then?\"\n\nI laughed. \"The Sanctuary
-    and the Sisters are under plenty of scrutiny, Latimas. All that nonsense about
-    Project Discovery being for the betterment of humanity doesn't fool anyone.\"
-    Latimas bridled at this. \"Well, maybe it fools the masses. It doesn't fool anyone
-    who matters. The AG12 Office is bound to have been looking into Project Discovery.
-    Crowdworking scientific analysis through the capsuleer liquid router networks
-    was novel enough. The fact you put actual Drifter tissue scans out there will
-    really have woken them up.\"\n\n\"They filed an access request, certainly. We
-    refused it, they have no jurisdiction over scientific enquiry.\"\n\n\"As if that
-    will have stopped them from pursuing it. Look, AG12 are not stupid people. They've
-    rooted out almost every covert technology developed by the empires and given enough
-    time they'll root this out too. My concern is that Ascension is delivered and
-    put into the field before they expose it. The empire recruitment and conditioning
-    programs have to be up and running before CONCORD gets wind. That's going to be
-    difficult enough. One of them will leak. Probably the Gallente, they'll have difficulty
-    hiding what's going on.\"\n\n\"I wouldn't trust the Amarr to keep anything secret.
-    Their bureaucracy always makes for a lot of fingers in the pie.\"\n\nI nodded.
-    \"It could be, there again they could all leak. Something like Ascension can't
-    be kept quiet for long. I give it, oh, maybe a month after delivery before AG12
-    have enough to act.\"\n\nLatimas blanched. \"That soon? But that's hardly enough
-    time to set up production and transfer facilities.\"\n\n\"All that will have to
-    start now, on a parallel track. If there's one good thing about this Serpentis
-    business, it'll give us the leverage we need to have the infrastructure phase
-    accelerated.\"\n\n\"How can we do that before we're sure that Ascension is viable?\"\n\n\"Ascension
-    is perfectly viable. How many times do we need to go through this? I've demonstrated
-    that the techniques work. You've seen volunteers go through the process with no
-    ill effects.\"\n\n\"Speed of knowledge acquisition has been halved in those kept
-    in Alpha state.\"\n\n\"You don't get something for nothing. I've explained all
-    this at length and predicted the knowledge uptake friction during genetic locking.
-    Preparing neural pathways for knowledge uptake on a blank gelform clone is useless
-    without the personality being able to use those pathways to acquire the appropriate
-    knowledge. That's something they're not going to be able to do without genetically
-    locking with the pathways as they learn. If the empires want their capsuleers
-    to train more quickly they'll have to pay for the Omega level QE 4-He implants
-    like anyone else.\"\n\n\"The implants aren't the issue. It's the QE 4-He, refreshing
-    the implanted pools is expensive.\"\n\n\"Well, yes, that goes without saying.\"
-    Latimas could be otiose sometimes. \"The reality, of course, is that even capsuleer
-    primes can't use anything but their basic capsule control systems when their QE
-    4-He drops to reserve levels. That's the advantage of the new clone gelforms and
-    nano-implants. The new clones will let them use the integrated neural pathway
-    bundles even when the QE 4-He drops to the Alpha state. Given that Alpha level
-    QE 4-He supply is mandated for all pod-enabled captains by the Yulai Convention,
-    it will give even the primes a reason to adopt the new technology. The empires
-    won't demur because of the tremendous increase in naval manpower they will gain.\"\n\n\"While
-    humanity gains a force that will be able to fight back against the Drifter threat.\"\n\nI
-    smiled. \"Indeed.\"\n\n\\***\n\n*Southern Ves-Udor, Satach City,*  \n*Valset Sarum
-    Sq., Ametat and Avetat,*  \n*YC118.09.29*  \n\nThe masked Lai Dai representative
-    spotted the man he'd come to meet as soon as he entered the Ametat and Avetat.
-    He walked over to the snug where the other man sat idly playing with the pieces
-    of a board game and sat down across from the Thukker diplomat. The Thukker smiled,
-    put down the die he'd been rolling between fingers and thumb, and pressed a stud
-    set into a control panel on the wall. The Lai Dai man nodded as a sound-dampening
-    field enclosed them.\n\n\"Very good but what about listening devices inside the
-    field?\" The masked figure gestured at the table.\n\n\"I've taken steps to defeat
-    the bug hidden in the table. A standard MIO install, I believe.\"\n\n\"Only the
-    one? You're sure no other agencies are listening?\"\n\n\"The local police have
-    two cameras with microphones in the room but haven't troubled to bug every table
-    in the place. Perhaps the Ministry guard that perquisite for themselves? Although
-    I'm not sure the minutiae of turf wars among the Amarr security forces interest
-    me that much.\"\n\n\"That's a lax attitude considering the peril we stand in by
-    just being here. What about the Imperial Guard? They're understandably on alert.\"\n\n\"It
-    wouldn't surprise me if the place were bugged by the Trade Registry come to that.
-    But this table isn't and the Guard aren't bugging it either. I can assure you
-    that I haven't been lax on that score. Oh and you look to have picked up a tail.\"\n\n\"I'm
-    quite aware of him. It's routine, no doubt. I'm using the name 'Saatta Mochan'.
-    I'm a representative of the Lai Dai trade delegation.\" Mochan brushed his diplomatic
-    tags lightly.\n\n\"Amusing. I wonder how many times they've tried to penetrate
-    your suit's shielding.\"\n\n\"At least three times and I assume any attempts I
-    haven't noticed have failed too. I see you chose to use your existing cover.\"\n\n\"I\u2019m
-    comfortable as Tamasek Sjakhuni. Oh and you know, they could well have succeeded.
-    They wouldn't swoop in now. After all, who knows where we could lead them?\" Sjakhuni
-    smiled broadly, picked up the die and began fiddling with it again, keeping his
-    eyes on Mochan all the while.\n\nMochan sighed, a distorted, harsh sound through
-    his mask, and indicated the board and pieces. \"I see you haven't lost your taste
-    for games. What's this one?\"\n\nSjakhuni laughed. \"You should recognize it with
-    that cover. It's Torigi. A Caldari classic. Torigi-kapeli is quite popular. It
-    would be odd for you to be unfamiliar with it, old friend. Rush the cover this
-    time?\"\n\n\"Your message arrived while I was engaged with other matters. As you
-    say, the cover was rushed. It's not for home ground use.\" Mochan shrugged.\n\n\"True
-    enough. These po-faced Amarr functionaries are not likely to ask questions about
-    Caldari games, even one quite popular with the less pious elements.\" Sjakhuni
-    grinned and rolled the die. It came up with a Caldari ideogram Mochan recognized
-    as representing the infamous Caldari Tea Maker ceremony. Sjakhuni laughed again,
-    \"Let's hope that's not an omen, old friend.\"\n\nMochan made a cutting gesture
-    with his hand, \"Enough of this. Why did you contact me and what is so important
-    that I had to interrupt my observations of the Amarr court, this week of all weeks,
-    to meet with you personally?\"\n\n\"Ascension.\"\n\n\"I beg your pardon?\"\n\n\"Ascension.
+    and his name was Tamasek Sjakhuni.\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n++Some
+    Personal Recollections++\n\n*Anoikis, Harmonic Node Q3:X-7:Th:Var1.71,*  \n*SOE
+    Sanctuary Research Facility,*  \n*YC118.06.27*  \n\n\"Sjakhuni!\" The shout from
+    Sister Latimas as she strode through the shimmer field interrupted the quiet routine
+    of the laboratory and made my lab assistants look up in alarm. I continued what
+    I was doing, entering the last two data references into the analysis program before
+    setting it running. When Latimas walked up to me and said my name again, more
+    quietly, I looked up and smiled.\n\n\"Sister Latimas, to what do I owe the pleasure?\"\n\nLatimas
+    looked around and gestured to the watching assistants, \"Give us some privacy,
+    please.\" Silently, the assistants filed out through the shimmer field. Latimas
+    walked back over to the entry to see that they'd gone.\n\nI laughed. \"They're
+    hardly going to linger in the airlock, Latimas. For one thing it's quite cold
+    in there. For another they'd have a hard time hearing us through the field.\"\n\nLatimas
+    turned back to me and grimaced. \"I'll cut to it, Sjakhuni. The Upwell Consortium
+    has just agreed to a technology sharing deal with CONCORD regarding the data they
+    recovered from the Serpentis Corporation.\"\n\n\"I'm aware of the development.
+    It was inevitable given Upwell\u2019s desire to appear above board. I don't see
+    that it changes anything. CONCORD have always been serious about enforcing technology
+    sharing. When they can.\"\n\n\"We can't afford to ignore that when we implement
+    the delivery phase of the plan.\"\n\n\"The contingencies have been put in place.
+    Our agents have made contact with assets in all four empires. Getting Project
+    Ascension into the field before CONCORD know about it won't be a problem.\"\n\n\"That's
+    just it. There might be a problem. Our intelligence cell has reported that the
+    Serpentis data trove included a lot of Angel Cartel data. We're not sure what's
+    mixed up in there but...\"\n\n\"But it might just include pointers to our Angel
+    connections. Unfortunate.\" I frowned in thought. The Angel Cartel weren't really
+    that important to the undertaking but they had access to a lot of resources. More
+    to the point they had access to a lot of recovered technology that they didn't
+    understand that well. I'd been able to help them with a certain project and in
+    return they'd provided a few items that accelerated the timetable.\n\n\"How bad
+    do you think the exposure could be? Would your contacts have shared details with
+    the Serpentis?\" Latimas was worried by all this, an administrator and scientist
+    at sea when it came to such matters. Not the for the first time, I wondered why
+    the Sanctuary had seen fit to place her in charge of Project Ascension.\n\n\"They
+    wouldn't share the smallest detail of their end of it with the Serpentis and they'd
+    be discreet enough about the shipments to us. Still, the shipments went through
+    a complicated smuggling chain. I wouldn't be surprised if Serpentis couriers were
+    used somewhere along the line.\"\n\n\"You're saying it's possible they could connect
+    the equipment shipments to us. That this could increase scrutiny on the Sanctuary
+    then?\"\n\nI laughed. \"The Sanctuary and the Sisters are under plenty of scrutiny,
+    Latimas. All that nonsense about Project Discovery being for the betterment of
+    humanity doesn't fool anyone.\" Latimas bridled at this. \"Well, maybe it fools
+    the masses. It doesn't fool anyone who matters. The AG12 Office is bound to have
+    been looking into Project Discovery. Crowdworking scientific analysis through
+    the capsuleer liquid router networks was novel enough. The fact you put actual
+    Drifter tissue scans out there will really have woken them up.\"\n\n\"They filed
+    an access request, certainly. We refused it, they have no jurisdiction over scientific
+    enquiry.\"\n\n\"As if that will have stopped them from pursuing it. Look, AG12
+    are not stupid people. They've rooted out almost every covert technology developed
+    by the empires and given enough time they'll root this out too. My concern is
+    that Ascension is delivered and put into the field before they expose it. The
+    empire recruitment and conditioning programs have to be up and running before
+    CONCORD gets wind. That's going to be difficult enough. One of them will leak.
+    Probably the Gallente, they'll have difficulty hiding what's going on.\"\n\n\"I
+    wouldn't trust the Amarr to keep anything secret. Their bureaucracy always makes
+    for a lot of fingers in the pie.\"\n\nI nodded. \"It could be, there again they
+    could all leak. Something like Ascension can't be kept quiet for long. I give
+    it, oh, maybe a month after delivery before AG12 have enough to act.\"\n\nLatimas
+    blanched. \"That soon? But that's hardly enough time to set up production and
+    transfer facilities.\"\n\n\"All that will have to start now, on a parallel track.
+    If there's one good thing about this Serpentis business, it'll give us the leverage
+    we need to have the infrastructure phase accelerated.\"\n\n\"How can we do that
+    before we're sure that Ascension is viable?\"\n\n\"Ascension is perfectly viable.
+    How many times do we need to go through this? I've demonstrated that the techniques
+    work. You've seen volunteers go through the process with no ill effects.\"\n\n\"Speed
+    of knowledge acquisition has been halved in those kept in Alpha state.\"\n\n\"You
+    don't get something for nothing. I've explained all this at length and predicted
+    the knowledge uptake friction during genetic locking. Preparing neural pathways
+    for knowledge uptake on a blank gelform clone is useless without the personality
+    being able to use those pathways to acquire the appropriate knowledge. That's
+    something they're not going to be able to do without genetically locking with
+    the pathways as they learn. If the empires want their capsuleers to train more
+    quickly they'll have to pay for the Omega level QE 4-He implants like anyone else.\"\n\n\"The
+    implants aren't the issue. It's the QE 4-He, refreshing the implanted pools is
+    expensive.\"\n\n\"Well, yes, that goes without saying.\" Latimas could be otiose
+    sometimes. \"The reality, of course, is that even capsuleer primes can't use anything
+    but their basic capsule control systems when their QE 4-He drops to reserve levels.
+    That's the advantage of the new clone gelforms and nano-implants. The new clones
+    will let them use the integrated neural pathway bundles even when the QE 4-He
+    drops to the Alpha state. Given that Alpha level QE 4-He supply is mandated for
+    all pod-enabled captains by the Yulai Convention, it will give even the primes
+    a reason to adopt the new technology. The empires won't demur because of the tremendous
+    increase in naval manpower they will gain.\"\n\n\"While humanity gains a force
+    that will be able to fight back against the Drifter threat.\"\n\nI smiled. \"Indeed.\"\n\n<div
+    align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n*Southern Ves-Udor,
+    Satach City,*  \n*Valset Sarum Sq., Ametat and Avetat,*  \n*YC118.09.29*  \n\nThe
+    masked Lai Dai representative spotted the man he'd come to meet as soon as he
+    entered the Ametat and Avetat. He walked over to the snug where the other man
+    sat idly playing with the pieces of a board game and sat down across from the
+    Thukker diplomat. The Thukker smiled, put down the die he'd been rolling between
+    fingers and thumb, and pressed a stud set into a control panel on the wall. The
+    Lai Dai man nodded as a sound-dampening field enclosed them.\n\n\"Very good but
+    what about listening devices inside the field?\" The masked figure gestured at
+    the table.\n\n\"I've taken steps to defeat the bug hidden in the table. A standard
+    MIO install, I believe.\"\n\n\"Only the one? You're sure no other agencies are
+    listening?\"\n\n\"The local police have two cameras with microphones in the room
+    but haven't troubled to bug every table in the place. Perhaps the Ministry guard
+    that perquisite for themselves? Although I'm not sure the minutiae of turf wars
+    among the Amarr security forces interest me that much.\"\n\n\"That's a lax attitude
+    considering the peril we stand in by just being here. What about the Imperial
+    Guard? They're understandably on alert.\"\n\n\"It wouldn't surprise me if the
+    place were bugged by the Trade Registry come to that. But this table isn't and
+    the Guard aren't bugging it either. I can assure you that I haven't been lax on
+    that score. Oh and you look to have picked up a tail.\"\n\n\"I'm quite aware of
+    him. It's routine, no doubt. I'm using the name 'Saatta Mochan'. I'm a representative
+    of the Lai Dai trade delegation.\" Mochan brushed his diplomatic tags lightly.\n\n\"Amusing.
+    I wonder how many times they've tried to penetrate your suit's shielding.\"\n\n\"At
+    least three times and I assume any attempts I haven't noticed have failed too.
+    I see you chose to use your existing cover.\"\n\n\"I\u2019m comfortable as Tamasek
+    Sjakhuni. Oh and you know, they could well have succeeded. They wouldn't swoop
+    in now. After all, who knows where we could lead them?\" Sjakhuni smiled broadly,
+    picked up the die and began fiddling with it again, keeping his eyes on Mochan
+    all the while.\n\nMochan sighed, a distorted, harsh sound through his mask, and
+    indicated the board and pieces. \"I see you haven't lost your taste for games.
+    What's this one?\"\n\nSjakhuni laughed. \"You should recognize it with that cover.
+    It's Torigi. A Caldari classic. Torigi-kapeli is quite popular. It would be odd
+    for you to be unfamiliar with it, old friend. Rush the cover this time?\"\n\n\"Your
+    message arrived while I was engaged with other matters. As you say, the cover
+    was rushed. It's not for home ground use.\" Mochan shrugged.\n\n\"True enough.
+    These po-faced Amarr functionaries are not likely to ask questions about Caldari
+    games, even one quite popular with the less pious elements.\" Sjakhuni grinned
+    and rolled the die. It came up with a Caldari ideogram Mochan recognized as representing
+    the infamous Caldari Tea Maker ceremony. Sjakhuni laughed again, \"Let's hope
+    that's not an omen, old friend.\"\n\nMochan made a cutting gesture with his hand,
+    \"Enough of this. Why did you contact me and what is so important that I had to
+    interrupt my observations of the Amarr court, this week of all weeks, to meet
+    with you personally?\"\n\n\"Ascension.\"\n\n\"I beg your pardon?\"\n\n\"Ascension.
     It's time for the next stage in the evolution of the capsuleers. As a matter of
     fact, it's already happening.\" Sjakhuni smiled and shifted his position slightly.\n\nMochan
     became very still. \"This wasn't as agreed. You were supposed to monitor the situation
@@ -382,11 +386,14 @@ content:
     to take another swallow of his beer when the containment field-damped explosive
     charge blew him out of his chair and into the wall. Feebly raising his head, he
     dimly registered that the snug at the back of the bar had been reduced to a flame-edged
-    hole before he collapsed into unconsciousness.\n\n\\***\n\n++Communication to
-    an Associate++\n\nOrigin: Occluded orbital signal via SCC financial data fluid
+    hole before he collapsed into unconsciousness.\n\n<div align=\"center\" style=\"margin-top:2.625em\">***</div>\n\n++Communication
+    to an Associate++\n\nOrigin: Occluded orbital signal via SCC financial data fluid
     router 47/hub9/p3/Amarr/TW/Domain\n\nTimestamp: 118.09.29.09.42.56.0674\n\n//decrypt
     follows\n\nOnikori,\n\nProceed with action phase of Offspring Cepheus at your
-    discretion.\n\nInitiate orientation phase of Darkness Visible as soon as possible.\n\nSjakhuni\n\n/ends"
+    discretion.\n\nInitiate orientation phase of Darkness Visible as soon as possible.\n\nSjakhuni\n\n/ends\n\n<div
+    style=\"text-align:center;line-height:172.5%;font-style:italic;margin: 3.75em
+    0px -2.25em;\"><i style=\"color:#858585;font-family:'Titillium Web'\">-Continued
+    in</i>\n<a href=\"6sXltXKezFon7VBsdfanuO\">Sine Wave: Omega</a><i style=\"color:#858585\">-</i></div>"
   id: 3QPxiDttcHCs28NjWLNCHm
   layout: default
 description: Amarr System, Amarr Prime, Southern Ves-Udor, Satach City, YC118.09.29
@@ -408,4 +415,4 @@ slug: sine-wave-alpha
 sortOrder: 0
 title: 'Sine Wave: Alpha'
 topics: []
-updatedAt: '2021-11-03T17:38:56.036000+00:00'
+updatedAt: '2024-12-03T12:53:47.871000+00:00'

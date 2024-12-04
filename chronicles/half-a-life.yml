@@ -1,10 +1,25 @@
 author: null
 category: Chronicles
 content:
-- body: '![Half a Life](https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/halfalife.jpg)
+- body: '<p align="center"><img src="https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleImage/halfalife.jpg"
+    alt="Half a Life"
+
+    style="max-width:97.5%;max-height:512px;border: 1px solid #2b2b2ba6;box-shadow:
+    2px 2px 6px 2px #0c0c0c8c;margin-bottom:2em"></p>
 
 
-    ---
+    <div style="text-align:center;line-height:172.5%;font-style:italic;margin:-1.4125em
+    0px -0.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part two
+    of the</i>
+
+    <a href="4aoleqrgiwB8OkLolwPdvX">End of the World</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series. Antar appears previously in</i>
+
+    <a href="2fXFrYYb6DmBFiG1xLVSD4">Of God and Her Beast</a><i style="color:#858585;font-family:''Titillium
+    Web''">.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -2.5%, grey
+    16.66%, #ababab 50%, grey 83.33%, #80808000 102.5%);opacity:0.5;margin-top:1.125em"></div>
 
 
     They were finishing up a patrol in EC-P8R when they were told of fresh meat.
@@ -96,7 +111,7 @@ content:
     And then they ran into the goddamn Thukkers.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     One of the captains leading the Thukker protective force was named Kotan, and
@@ -195,18 +210,32 @@ content:
 
     Kotan grinned at that as he set off to follow the Raiders. He had his screen show
     him the caravan, which slowly disappeared from view as they started their hunt.
-    It felt like he was leaving more behind than he could ever imagine.
-
-    '
+    It felt like he was leaving more behind than he could ever imagine.'
   id: 7hXwuW6Wo7NsbP8Jz8QCpL
   layout: default
-description: They were finishing up a patrol in EC-P8R when they were told of fresh
-  meat. Antar's team had been doing hunt-and-grabs for a while now, and he had become
-  a natural at Bleeding his victims. The experience depended on one's training, origins
-  and constitution - common wisdom held that anyone who didn't pale and grow nauseated
-  at their first time of hooking up live bodies was either perfect for the job or
-  too crazy to be allowed on a spaceship - but for every Raider there eventually came
-  a point when, [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"4aoleqrgiwB8OkLolwPdvX\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">The Spiral</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"3hPIhmRKSskaaHFPdhMeO3\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">\"1\"</i>\n</a></span></div>"
+  id: 4ucMRV0zPegA6Gx9noJGkA
+  layout: default
+description: Part two of the End of the World chronicle series. Antar appears previously
+  in Of God and Her Beast. They were finishing up a patrol in EC-P8R when they were
+  told of fresh meat. Antar's team had been doing hunt-and-grabs for a while now,
+  and he had become a natural at Bleeding his victims. The experience depended on
+  one's training, origins and constitution - common wisdom held that anyone who didn't
+  pale and grow nauseated at their first time of hooking up live bodies was either
+  perfect for the job or [...]
 heroImage: null
 id: 4uT1LNhQSAVn1oKIS5qjYQ
 image: null
@@ -217,6 +246,6 @@ parent: null
 publicationDate: '2009-01-19T12:00:00'
 slug: half-a-life
 sortOrder: null
-title: Half a Life
+title: 'End of the World: Half a Life'
 topics: []
-updatedAt: '2021-11-10T11:45:19.418000+00:00'
+updatedAt: '2024-12-03T12:48:39.524000+00:00'

@@ -1,7 +1,18 @@
 author: null
 category: Chronicles
 content:
-- body: 'Draea felt rather uncomfortable. Her team was making its way to the warehouse
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part five
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Draea felt rather uncomfortable. Her team was making its way to the warehouse
     area on an Angel station, and at any moment she expected to see a familiar face,
     someone who''d known someone she''d killed. Not that she probably needed to worry
     much, considering the company she was in, but it paid to be careful.
@@ -207,7 +218,7 @@ content:
     "Your point?"
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Once at the warehouse, Krezek took to the fore and did his magic, though not without
@@ -300,7 +311,7 @@ content:
     way down the street.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     They were back on the ship. The team was setting up their gear and preparing for
@@ -353,13 +364,30 @@ content:
     we''re off to get it."'
   id: 5CHauUgFqKVYxERl8gZPnM
   layout: default
-description: Draea felt rather uncomfortable. Her team was making its way to the warehouse
-  area on an Angel station, and at any moment she expected to see a familiar face,
-  someone who'd known someone she'd killed. Not that she probably needed to worry
-  much, considering the company she was in, but it paid to be careful. She looked
-  around at her teammates. There was Krezek the tech-sadist, Falau the brawler, Yorlas
-  the bounty hunter and Polok the chem-tech warfare dude. Krezek was an ex-sniper
-  with a gift for [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"7yrajwk9bgKqGFgVp2y8SB\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">The First Half</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"1gQjOro1TAsIIz3q1AbFHO\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">A
+    Man of Peace</i>\n</a></span></div>"
+  id: 5qFzXKR0KFazE56ZzJQQJJ
+  layout: default
+description: Part five of the Black Mountain chronicle series. Draea felt rather uncomfortable.
+  Her team was making its way to the warehouse area on an Angel station, and at any
+  moment she expected to see a familiar face, someone who'd known someone she'd killed.
+  Not that she probably needed to worry much, considering the company she was in,
+  but it paid to be careful. She looked around at her teammates. There was Krezek
+  the tech-sadist, Falau the brawler, Yorlas the bounty hunter and Polok the chem-tech
+  warfare [...]
 heroImage: null
 id: 7KuR4Db6yJrA7LfA7eA6rM
 image: null
@@ -373,4 +401,4 @@ sortOrder: 0
 title: 'Black Mountain: Of a Sentence'
 topics:
 - Angel Cartel
-updatedAt: '2021-11-10T11:42:20.430000+00:00'
+updatedAt: '2024-12-03T12:46:25.514000+00:00'

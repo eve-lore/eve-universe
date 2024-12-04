@@ -1,7 +1,18 @@
 author: null
 category: Chronicles
 content:
-- body: 'Nale and Hona were sitting side by side on their ship''s bridge, each listening
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part seven
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Nale and Hona were sitting side by side on their ship''s bridge, each listening
     in on the broadcasts from the Angel ship they were tracking.
 
 
@@ -228,7 +239,7 @@ content:
     There was an infinite whiteness.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Nale is walking through a desert. It is night-time but he doesn''t feel cold.
@@ -313,7 +324,7 @@ content:
     He rises.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     Everyone was lying on the ground, some moving, some not. Nale hauled himself up
@@ -495,13 +506,29 @@ content:
     A tracking device.'
   id: 8hvJahYOcYaVqoGO3HxaI
   layout: default
-description: Nale and Hona were sitting side by side on their ship's bridge, each
-  listening in on the broadcasts from the Angel ship they were tracking. It was the
-  usual external stuff about docking plans and routes, along with internal notes concerning
-  commands and confirmations of commands. They were doing it in shifts, each crew
-  member on Hona's ship listening to the individual channel of his corresponding member
-  on the Angel ship. Hona had twice already predicted, erroneously, that Draea's ship
-  was about to [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"1gQjOro1TAsIIz3q1AbFHO\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">A Man of Peace</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -7px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"6CYBSRMHIMa5dDbBZWushN\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Hyperconsciousness</i>\n</a></span></div>"
+  id: 2eIGMPmKArscICZKr1MAyc
+  layout: default
+description: Part seven of the Black Mountain chronicle series. Nale and Hona were
+  sitting side by side on their ship's bridge, each listening in on the broadcasts
+  from the Angel ship they were tracking. It was the usual external stuff about docking
+  plans and routes, along with internal notes concerning commands and confirmations
+  of commands. They were doing it in shifts, each crew member on Hona's ship listening
+  to the individual channel of his corresponding member on the Angel ship. Hona had
+  twice already [...]
 heroImage: null
 id: 6SXLhc8LbsbFaaFNEZU8Gb
 image: null
@@ -514,4 +541,4 @@ slug: black-mountain-some-dying-angel
 sortOrder: 0
 title: 'Black Mountain: Some Dying Angel'
 topics: []
-updatedAt: '2021-11-10T11:56:01.909000+00:00'
+updatedAt: '2024-12-03T12:46:44.979000+00:00'

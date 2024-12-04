@@ -1,9 +1,20 @@
 author: null
 category: Chronicles
 content:
-- body: 'Zetyn came to, and rubbed his head. He was wearing most of his clothes but
-    had lost all his gear and, oddly, his shoes. His bare feet felt cold on the hard
-    metal floor.
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part thirteen
+    of the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    Zetyn came to, and rubbed his head. He was wearing most of his clothes but had
+    lost all his gear and, oddly, his shoes. His bare feet felt cold on the hard metal
+    floor.
 
 
     He was sitting in the centre of a small crossroads. It was dark in there but not
@@ -55,7 +66,7 @@ content:
     side walls are perfectly safe to touch."
 
 
-    Zetyn didn''t trust him. "Who are you?" he asked.
+    Zetyn didn''t trust him. "Who *are* you?" he asked.
 
 
     "I''m the one who put you here."
@@ -311,7 +322,7 @@ content:
     the left.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     His flesh felt like it was going to tear itself off his body, and he didn''t care.
@@ -461,7 +472,7 @@ content:
 
     "The adaptation formula is based half on the one that modified the maze you just
     got through. So with your little drone helper hovering around somewhere, and believe
-    me, I will catch him eventually, you shouldn''t have any problems."
+    me, I *will* catch him eventually, you shouldn''t have any problems."
 
 
     Zetyn thought about that sentence, and the quiet satisfaction it seemed to exude.
@@ -567,7 +578,7 @@ content:
     in his head and his consciousness faded away to blissful oblivion.
 
 
-    ***
+    <div align="center" style="margin-top:2.625em">***</div>
 
 
     A noise awoke him with a start. It came from around him, but his first instinct
@@ -629,7 +640,7 @@ content:
     "Yes?"
 
 
-    "How did you manage it? In the maze."
+    "How *did* you manage it? In the maze."
 
 
     Nale smiled faintly. "I listened to the rails, the way they slide together. I
@@ -662,13 +673,30 @@ content:
     After a while, Zetyn got to his feet, and started making his way back to the ship.'
   id: 4lGjo8ujESMhhMkXwRjo40
   layout: default
-description: Zetyn came to, and rubbed his head. He was wearing most of his clothes
-  but had lost all his gear and, oddly, his shoes. His bare feet felt cold on the
-  hard metal floor. He was sitting in the centre of a small crossroads. It was dark
-  in there but not too dark to see, and as he looked around he saw that everything
-  - the floor, the ceiling, every wall - was made of equal size metal panels. The
-  wall panels had inset windows made of thick, glasslike material that rang out dully
-  when Zetyn reached up and [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"4Gcm9Q2KamTWvppJqDGdZw\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">The Sanctuary</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -7px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"5qOBPhhMBl6gytJnZe6s0p\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">Black
+    Mountain</i>\n</a></span></div>"
+  id: 013rm7PqtnSDE92PrCvk0r
+  layout: default
+description: Part thirteen of the Black Mountain chronicle series. Zetyn came to,
+  and rubbed his head. He was wearing most of his clothes but had lost all his gear
+  and, oddly, his shoes. His bare feet felt cold on the hard metal floor. He was sitting
+  in the centre of a small crossroads. It was dark in there but not too dark to see,
+  and as he looked around he saw that everything - the floor, the ceiling, every wall
+  - was made of equal size metal panels. The wall panels had inset windows made of
+  thick, glasslike [...]
 heroImage: null
 id: 2fIAf6Dxt5cSoTRmBxJnKV
 image: null
@@ -681,4 +709,4 @@ slug: black-mountain-polymelia
 sortOrder: 0
 title: 'Black Mountain: Polymelia'
 topics: []
-updatedAt: '2021-11-10T11:53:56.823000+00:00'
+updatedAt: '2024-12-03T12:47:43.886000+00:00'

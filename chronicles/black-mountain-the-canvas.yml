@@ -1,11 +1,22 @@
 author: null
 category: Chronicles
 content:
-- body: 'The infrastructure was looking shaky, but the hidden patterns told Shiqra
-    he was safe, and he was sure they could get to a few more people before risking
-    collapse. He''d been leading his team deeper into the bowels of the asteroid colony,
-    finding survivors, tagging and prepping them for assistance, and verifying structure
-    integrity so that the rescue squads could move in.
+- body: '<div style="text-align:left;line-height:172.5%;font-style:italic;margin:0em
+    0em 2.25em;"><i style="color:#858585;font-family:''Titillium Web''">Part ten of
+    the</i>
+
+    <a href="4X2CWnlv8Ec2yZEHzEI277">Black Mountain</a><i style="color:#858585;font-family:''Titillium
+    Web''"> chronicle series.</i>
+
+    <hr style="height:1px;background:linear-gradient(90deg, #80808000 -5%, grey 6.66%,
+    #ababab 16.66%, grey 33.33%, #80808000 100%);opacity:0.5;margin-top:0.25em"></div>
+
+
+    The infrastructure was looking shaky, but the hidden patterns told Shiqra he was
+    safe, and he was sure they could get to a few more people before risking collapse.
+    He''d been leading his team deeper into the bowels of the asteroid colony, finding
+    survivors, tagging and prepping them for assistance, and verifying structure integrity
+    so that the rescue squads could move in.
 
 
     Shiqra was leader of a Sisters of EVE scout team. They ran in first, moved fast,
@@ -160,7 +171,7 @@ content:
     followed them. As he progressed, they started disappearing, replaced with the
     far more potent absence of anything important at all. The silence and emptiness
     in certain paths told him just as much as the noise and the visuals had done before.
-    They spoke of unfulfilled potential; something could have been here, they said,
+    They spoke of unfulfilled potential; something *could* have been here, they said,
     and as it wasn''t, he should investigate further.
 
 
@@ -295,7 +306,7 @@ content:
     his voice.
 
 
-    "I''ve done everything else. I am someone else. The one I was always meant to
+    "I''ve done everything else. I *am* someone else. The one I was always meant to
     be, I think. But still ... how did you know?"
 
 
@@ -306,13 +317,30 @@ content:
     "You were smiling," he said.'
   id: 1EO9B55vKXJVMg82lhEFHU
   layout: default
-description: The infrastructure was looking shaky, but the hidden patterns told Shiqra
-  he was safe, and he was sure they could get to a few more people before risking
-  collapse. He'd been leading his team deeper into the bowels of the asteroid colony,
-  finding survivors, tagging and prepping them for assistance, and verifying structure
-  integrity so that the rescue squads could move in. Shiqra was leader of a Sisters
-  of EVE scout team. They ran in first, moved fast, found the victims who needed help,
-  and moved on. [...]
+- body: "<div style=\"margin:6.8em 0em 5.6em\">\n<hr style=\"height:1px;background:linear-gradient(90deg,
+    #80808000 -2.5%, grey 25%, #ababab 50%, grey 75%, #80808000 102.5%);opacity:0.5;margin-bottom:-1.5em\">\n<span
+    style=\"position: relative; float: left; left: -7px;\">\n<i style=\"position:
+    relative; padding-left: 13px; opacity: 0.66;\">Previous:</i>\n<a href=\"7qOQgpv7BozXA4uSdCYbdl\"
+    style=\"font-weight: 500;\">\n<br><i style=\"position: absolute; left: 0px; opacity:
+    0.66;\">\xAB</i>\n<box style=\"position: absolute; left: 0px; bottom: 11px; width:
+    100px; height: 55px;\"></box>\n<i style=\"position: relative; float: left; left:
+    10px; top: -10px; padding: 10px 8px 6px 2px;\">Pushing Towards Bliss</i>\n</a></span>\n<span
+    style=\"position: relative; text-align: right; float: right; right: -6px;\">\n<i
+    style=\"position: relative; padding-right: 12px; opacity: 0.66;\">Next:</i>\n<a
+    href=\"6ZmklG5N9eIvt3FKROY7SF\" style=\"font-weight: 500;\">\n<br><i style=\"position:
+    absolute; right: 0px; opacity: 0.66;\">\xBB</i>\n<box style=\"position: absolute;
+    right: 0px; bottom: 11px; width: 70px; height: 55px;\"></box>\n<i style=\"position:
+    relative; float: right; right: 10px; top: -10px; padding: 10px 2px 6px 8px;\">A
+    Pleasant Surprise</i>\n</a></span></div>"
+  id: 3bRdYBZFzuy5MXHkGd0aYX
+  layout: default
+description: Part ten of the Black Mountain chronicle series. The infrastructure was
+  looking shaky, but the hidden patterns told Shiqra he was safe, and he was sure
+  they could get to a few more people before risking collapse. He'd been leading his
+  team deeper into the bowels of the asteroid colony, finding survivors, tagging and
+  prepping them for assistance, and verifying structure integrity so that the rescue
+  squads could move in. Shiqra was leader of a Sisters of EVE scout team. They ran
+  in first, moved fast, [...]
 heroImage: null
 id: G2f6rA96DQdeLB8JEcSIr
 image: null
@@ -326,4 +354,4 @@ sortOrder: 0
 title: 'Black Mountain: The Canvas'
 topics:
 - Technology
-updatedAt: '2021-11-10T11:41:43.414000+00:00'
+updatedAt: '2024-12-03T12:47:13.640000+00:00'
